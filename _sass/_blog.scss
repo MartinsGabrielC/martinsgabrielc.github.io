@@ -7,6 +7,23 @@
     }
 }
 .blog_area{
+    margin-top: 90px;
+    margin-bottom: 70px;
+    &.plus_padding{
+        padding-top: 150px;
+        @media #{$mobile_device}{
+            padding-top: 60px;
+        }
+        @media #{$tablet_device}{
+            padding-top: 100px;
+        }
+    }
+    @media #{$mobile_device} {
+        margin-bottom: 50px;
+    }
+    @media #{$tablet_device} {
+        margin-bottom: 100px;
+    }
     a{
         color: $font_1 !important;
         text-decoration: none;
