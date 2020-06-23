@@ -38,6 +38,7 @@
                 color: #040E27;
                 text-transform: capitalize;
                 margin-bottom: 10px;
+                text-align:center;
                 @media #{$mobile_device} {
                     margin-bottom: 20px;
                 }
@@ -178,6 +179,7 @@
     }
     .socail_links{
         margin-top: 10px;
+        text-align:center;
         @media #{$mobile_device} {
             margin-top: 30px;
         }

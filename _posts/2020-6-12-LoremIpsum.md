@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Lorem Ipsum!
+day: 20
+month: Dec
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec enim ultricies, scelerisque eros a, hendrerit ligula. Donec eget neque nec orci imperdiet vulputate. Sed convallis hendrerit neque, ut volutpat risus blandit a. Cras sit amet sapien porttitor, pharetra orci quis, facilisis orci. Proin pulvinar, lectus non vulputate facilisis, odio dui mollis urna, eu consequat augue nunc sit amet lorem. Maecenas mi ante, scelerisque at iaculis at, volutpat non ligula. Proin non lacus tempus, mollis urna non, egestas enim. Suspendisse at sapien fermentum, malesuada tellus id, commodo lacus. Aenean varius dui dictum, placerat ligula eu, cursus orci. Nulla mattis, nisl a tempus aliquam, augue quam congue sem, at rutrum nisl nibh sed magna. Proin rutrum erat ac mauris laoreet malesuada. Pellentesque ornare accumsan maximus. Curabitur tincidunt ut eros eu gravida. Mauris aliquam consequat neque, sit amet posuere sapien scelerisque sed. Nullam dictum urna ac risus scelerisque consequat. Proin luctus diam nec nisl sodales, in facilisis tellus gravida.

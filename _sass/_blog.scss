@@ -652,6 +652,20 @@
             }
         }
     }
+    img{
+        object-fit: cover;
+        object-position: 0% 0;
+        height: 300px;
+        @media #{$mobile_device} {
+            height: 200px;
+        }
+        @media #{$tablet_device} {
+            height: 200px;
+        }
+        @media #{$mid_device} {
+            height: 200px;
+        }
+    }
 }
 
 
