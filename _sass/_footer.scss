@@ -8,10 +8,10 @@
         font-family: $font2 !important;
     }
     .footer_top{
-        padding-top: 145px;
-        padding-bottom: 129px;
+        padding-top: 60px;
+        padding-bottom: 10px;
         @media #{$mobile_device} {
-            padding-top: 60px;
+            padding-top: 40px;
             padding-bottom: 30px;
         }
         .footer_widget{
@@ -26,7 +26,7 @@
                 font-weight: 500;
                 color: #040E27;
                 text-transform: capitalize;
-                margin-bottom: 40px;
+                margin-bottom: 20px;
                 font-family: $font2;
                 @media #{$mobile_device} {
                     margin-bottom: 20px;
@@ -37,7 +37,7 @@
                 font-weight: 400;
                 color: #040E27;
                 text-transform: capitalize;
-                margin-bottom: 40px;
+                margin-bottom: 10px;
                 @media #{$mobile_device} {
                     margin-bottom: 20px;
                 }
@@ -149,6 +149,17 @@
                 line-height: 26px;
             }
         }
+        .footer_links ul li{
+            display: inline-block;
+            position: relative;
+            margin: 0px 25px;
+            a{
+                font-weight: 500;
+                font-size: 19px;
+                font-family: "Roboto", sans-serif;
+                text-transform: capitalize;
+            }
+        }
     }
     .copy-right_text{
         padding-bottom: 30px;
@@ -166,7 +177,7 @@
         }
     }
     .socail_links{
-        margin-top: 47px;
+        margin-top: 10px;
         @media #{$mobile_device} {
             margin-top: 30px;
         }

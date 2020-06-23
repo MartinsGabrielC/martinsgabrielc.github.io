@@ -48,6 +48,9 @@
     &:focus{
         outline: none;
     }
+    @media #{$mobile_device} {
+        margin-bottom:20px;
+    }
 }
 .boxed-btn4 {
 	display: inline-block;

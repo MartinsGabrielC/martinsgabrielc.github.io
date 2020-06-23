@@ -40,9 +40,15 @@
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
-                                <div class="Appointment">
-                                    <div class="phone_num d-none d-xl-block">
-                                        <a href="#"> <i class="fa fa-phone"></i> {{ site.telephone }}</a>
+                                <div class="Appointment container-fluid">
+                                    <div class="row">
+                                      <div class="phone_num col-xs-12">
+                                          <a href="tel:{{ site.footer-links.telephone-dial }}"> <i class="fa fa-phone"></i> {{ site.footer-links.telephone-display }}</a>
+                                      </div>
+
+                                      <div class="email_desc col-xs-12">
+                                          <a href="mailto:{{ site.footer-links.email }}"> <i class="ti-email"></i> {{ site.footer-links.email }}</a>
+                                      </div>
                                     </div>
                                 </div>
                             </div>
@@ -76,27 +82,14 @@
 
                         </div>
                     </div>
-                    <div class="col-xl-2 col-md-6 col-lg-2">
-                        <div class="footer_widget wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".5s">
+                    <div class="col-xl-6 col-md-6 col-lg-6">
+                        <div class="footer_widget footer_links wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".5s">
                             <h3 class="footer_title">
                                 Useful Links
                             </h3>
                             <ul>
                                 {% include navigation.html %}
                             </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-lg-4">
-                        <div class="footer_widget wow fadeInUp" data-wow-duration="1.3s" data-wow-delay=".6s">
-                            <h3 class="footer_title">
-                                Subscribe
-                            </h3>
-                            <form action="#" class="newsletter_form">
-                                <input type="text" placeholder="Enter your mail">
-                                <button type="submit">Subscribe</button>
-                            </form>
-                            <p class="newsletter_text">Esteem spirit temper too say adieus who direct esteem esteems
-                                luckily.</p>
                         </div>
                     </div>
                 </div>

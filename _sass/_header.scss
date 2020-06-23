@@ -58,16 +58,21 @@
                 // padding-left: 20px;
                 text-align: left;
             }
-            img{
+            img {
+                width: 90px;
+                height: 90px;
                 @media #{$mobile_device} {
-                    // padding-left: 20px;
                     width: 70px;
+                    height: 70px;
                 }
                 @media #{$tablet_device} {
-                    // padding-left: 20px;
                     width: 70px;
+                    height: 70px;
                 }
-               
+                @media #{$mid_device} {
+                    width: 70px;
+                    height: 70px;
+                }
             }
         }
         .Appointment{
@@ -76,6 +81,25 @@
             @include justify-content(flex-end);
             .phone_num{
                 margin-right: 30px;
+                @media #{$large_device} {
+                    margin-right: 12px;
+                }
+                a{
+                    font-size: 14px;
+                    font-weight: 400;
+                    color: #FFFFFF;
+                    @media #{$large_device}{
+                        font-size: 13px;
+                    }
+                    i{
+                        color: #33D4D6;
+                        font-size: 14px;
+                        margin-right: 7px;
+                    }
+                }
+            }
+            .email_desc{
+                margin-right: 0px;
                 @media #{$large_device} {
                     margin-right: 12px;
                 }
