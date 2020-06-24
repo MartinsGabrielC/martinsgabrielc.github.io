@@ -6,6 +6,7 @@
     {% include meta.html %}
     {% include fav.html %}
     {% include css.html %}
+    <link rel="stylesheet" type="text/css" href="/css/404.css">
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -16,15 +17,10 @@
   </head>
 
   <body>
-	<article class="page">
-
-	  <h1>{{ page.title }}</h1>
-
-	  <div class="entry">
-	    {{ content }}
-	  </div>
-	</article>
-	{% include javascript.html %}
-    {% include analytics.html %}
+	{{ content }}
+  {% include javascript.html %}
+  <script src="/js/in-view.min.js"></script>
+  <script src="/js/404.js"></script>
+  {% include analytics.html %}
   </body>
 </html>
