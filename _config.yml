@@ -20,7 +20,7 @@ footer: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: inovacaopratica@gmail.com
+  email: contato@inovandonapratica.com.br
   facebook: Inovando-Na-Pr%C3%A1tica-113815193710747
   flickr:
   github:
@@ -32,8 +32,8 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  telephone-display: +55 (11) 98876-9876
-  telephone-dial: +55-011-988769876 #No spaces or dashes with area indicator
+  telephone-display: +55 (16) 99637-2820
+  telephone-dial: +55-016-996372820 #No spaces or dashes with area indicator
 
 blog-default:
   image: default.jpg
