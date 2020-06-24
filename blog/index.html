@@ -24,12 +24,10 @@ layout: default
     				<article class="blog_item">
     					<div class="blog_item_img">
                             <img class="card-img rounded-5" src="/images/blog/{% if post.image %}{{ post.image }} {% else %}{{ site.blog-default.image }} {% endif %}" alt="">
-                            {% if post.day and post.month %}
                             <a href="#" class="blog_item_date">
-                                <h3>{{ post.day }}</h3>
-                                <p>{{ post.month }}</p>
+                                <h3>{{ post.date | date: "%d" }}</h3>
+                                <p>{{ post.date | date: "%b" }}</p>
                             </a>
-                            {% endif %}
                         </div>
                         <div class="blog_details">
                             <a class="d-inline-block" href="{{ site.baseurl }}{{ post.url }}">
