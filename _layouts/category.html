@@ -36,8 +36,7 @@ layout: default
                             </a>
                             <p>{{ post.excerpt }}</p>
                             <ul class="blog-info-link">
-                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i> {{ post.author }}</a></li>
                                 {% if post.categories.size > 0 %}<li><a href="#"><i class="fa fa-list"></i> {% for category in post.categories %} {{category}},{% endfor %}</a></li> {% endif %}
                             </ul>
                         </div>
