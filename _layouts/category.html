@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<!-- bradcam_area  -->
+  <div class="bradcam_area bradcam_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text">
+                    <h3>Conteúdo - {{ page.tag }}</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ bradcam_area  -->
+
+<section class="blog_area section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+            	<div class="blog_left_sidebar">
+            		{% for post in site.categories[page.tag] %}			
+    				<article class="blog_item">
+    					<div class="blog_item_img">
+                            <img class="card-img rounded-5" src="/images/blog/{% if post.image %}{{ post.image }} {% else %}{{ site.blog-default.image }} {% endif %}" alt="">
+                            <a href="#" class="blog_item_date">
+                                <h3>{{ post.day }}</h3>
+                                <p>{{ post.month }}</p>
+                            </a>
+                        </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="{{ site.baseurl }}{{ post.url }}">
+                                <h2>{{ post.title }}</h2>
+                            </a>
+                            <p>{{ post.excerpt }}</p>
+                            <ul class="blog-info-link">
+                                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+                                {% if post.categories.size > 0 %}<li><a href="#"><i class="fa fa-list"></i> {% for category in post.categories %} {{category}},{% endfor %}</a></li> {% endif %}
+                            </ul>
+                        </div>
+                    </article>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

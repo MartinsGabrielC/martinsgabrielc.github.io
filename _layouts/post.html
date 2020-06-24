@@ -1,17 +1,80 @@
 ---
 layout: default
 ---
-
-<article class="post">
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
-</article>
+<!-- bradcam_area  -->
+  <div class="bradcam_area bradcam_bg" style="background-image: url(/images/blog/{% if post.image %}{{ post.image }} {% else %}{{ site.blog-default.image }} {% endif %});">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text">
+                    <h3>{{ page.title }}</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ bradcam_area  -->
+<section class="blog_area single-post-area">
+      <div class="container">
+         <div class="row">
+            <div class="col">
+               	<div class="single-post">
+               		<div class="blog_details">
+	               		<ul class="blog-info-link mt-3 mb-4">
+		                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+		                    <li><a href="#"><i class="fa fa-calendar"></i>{{ page.date | date: "%B %e, %Y" }}</a></li>
+		                </ul>
+		                {{ content }}
+		            </div>
+               </div>
+               <div class="navigation-area">
+                     <div class="row">
+                        <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
+                           {% if page.previous.url %}
+                           <div class="thumb">
+                              <a href="{{page.previous.url}}">
+                                 <img class="img-fluid img-thumbnail" src="/images/blog/{% if page.previous.image %}{{ page.previous.image }} {% else %}{{ site.blog-default.image }} {% endif %}" alt="">
+                              </a>
+                           </div>
+                           <div class="arrow">
+                              <a href="{{page.previous.url}}">
+                                 <span class="lnr text-white ti-arrow-left"></span>
+                              </a>
+                           </div>
+                           <div class="details">
+                              <p>Post Anterior</p>
+                              <a href="{{page.previous.url}}">
+                                 <h4>{{page.previous.title}}</h4>
+                              </a>
+                           </div>
+                           {% endif %}
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+                           {% if page.next.url %}
+                           <div class="details">
+                              <p>Post Seguinte</p>
+                              <a href="{{page.next.url}}">
+                                 <h4>{{page.next.title}}</h4>
+                              </a>
+                           </div>
+                           <div class="arrow">
+                              <a href="{{page.next.url}}">
+                                 <span class="lnr text-white ti-arrow-right"></span>
+                              </a>
+                           </div>
+                           <div class="thumb">
+                              <a href="{{page.next.url}}">
+                                 <img class="img-fluid img-thumbnail" src="/images/blog/{% if page.next.image %}{{ page.next.image }} {% else %}{{ site.blog-default.image }} {% endif %}" alt="">
+                              </a>
+                           </div>
+                           {% endif %}
+                        </div>
+                     </div>
+                  </div>
+               <div class="comments-area">
+               	{% include disqus.html %}
+               </div>
+           </div>
+       </div>
+   </div>
+</section>

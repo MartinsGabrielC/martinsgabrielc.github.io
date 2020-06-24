@@ -3283,8 +3283,8 @@ h6 {
   margin-bottom: 70px; }
 
 .blog_area {
-  margin-top: 90px;
-  margin-bottom: 70px; }
+  margin-top: 30px;
+  margin-bottom: 30px; }
   .blog_area.plus_padding {
     padding-top: 150px; }
     @media (max-width: 767px) {
@@ -3311,6 +3311,8 @@ h6 {
       text-decoration: none;
       -webkit-transition: 0.5s;
       transition: 0.5s; }
+  .blog_area.single-post-area {
+    margin-top: 0; }
 
 .single-blog {
   overflow: hidden;
@@ -3331,6 +3333,9 @@ h6 {
       opacity: 0;
       -webkit-transition: 0.5s;
       transition: 0.5s; }
+    .single-blog .thumb img {
+      height: 60px;
+      width: 60px; }
   .single-blog h4 {
     border-bottom: 1px solid #dfdfdf;
     padding-bottom: 34px;
@@ -3834,6 +3839,8 @@ h6 {
   color: #8a8a8a;
   border: 1px solid #f0e9ff;
   margin-right: 10px; }
+  .blog-pagination .page-link.disabled:hover {
+    background-color: #fff; }
   .blog-pagination .page-link i,
   .blog-pagination .page-link span {
     font-size: 13px; }
@@ -3944,9 +3951,10 @@ h6 {
   .single-post-area .blog-author h4 {
     font-size: 16px; }
 .single-post-area .navigation-area {
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid #eee;
+  padding-top: 30px;
   padding-bottom: 30px;
-  margin-top: 55px; }
+  margin-top: 50px; }
   .single-post-area .navigation-area p {
     margin-bottom: 0px; }
   .single-post-area .navigation-area h4 {
@@ -3959,7 +3967,9 @@ h6 {
       background: #000; }
       .single-post-area .navigation-area .nav-left .thumb img {
         -webkit-transition: 0.5s;
-        transition: 0.5s; }
+        transition: 0.5s;
+        width: 60px;
+        height: 60px; }
     .single-post-area .navigation-area .nav-left .lnr {
       margin-left: 20px;
       opacity: 0;
@@ -3979,7 +3989,9 @@ h6 {
       background: #000; }
       .single-post-area .navigation-area .nav-right .thumb img {
         -webkit-transition: 0.5s;
-        transition: 0.5s; }
+        transition: 0.5s;
+        width: 60px;
+        height: 60px; }
     .single-post-area .navigation-area .nav-right .lnr {
       margin-right: 20px;
       opacity: 0;
@@ -3996,8 +4008,7 @@ h6 {
 .comments-area {
   background: transparent;
   border-top: 1px solid #eee;
-  padding: 45px 0;
-  margin-top: 50px; }
+  padding: 45px 0; }
   @media (max-width: 414px) {
     .comments-area {
       padding: 50px 8px; } }

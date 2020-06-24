@@ -1,12 +1,30 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}{% if site.description %} – {{ site.description }} {% endif %}</title>
 
-<article class="page">
+    {% include meta.html %}
+    {% include fav.html %}
+    {% include css.html %}
 
-  <h1>{{ page.title }}</h1>
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-  <div class="entry">
-    {{ content }}
-  </div>
-</article>
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+	<article class="page">
+
+	  <h1>{{ page.title }}</h1>
+
+	  <div class="entry">
+	    {{ content }}
+	  </div>
+	</article>
+	{% include javascript.html %}
+    {% include analytics.html %}
+  </body>
+</html>
