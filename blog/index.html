@@ -26,7 +26,7 @@ layout: default
                             <img class="card-img rounded-5" src="/images/blog/{% if post.image %}{{ post.image }} {% else %}{{ site.blog-default.image }} {% endif %}" alt="">
                             <a href="#" class="blog_item_date">
                                 <h3>{{ post.date | date: "%d" }}</h3>
-                                <p>{{ post.date | date: "%b" }}</p>
+                                <p>{{ post.date | date: "%b %Y" }}</p>
                             </a>
                         </div>
                         <div class="blog_details">

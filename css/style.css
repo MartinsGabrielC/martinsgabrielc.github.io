@@ -3659,7 +3659,8 @@ h6 {
     color: #fff;
     background-color: #33D4D6;
     padding: 8px 15px;
-    border-radius: 5px; }
+    border-radius: 5px;
+    text-align: center; }
     @media (min-width: 768px) {
       .blog_item_img .blog_item_date {
         bottom: -20px;
