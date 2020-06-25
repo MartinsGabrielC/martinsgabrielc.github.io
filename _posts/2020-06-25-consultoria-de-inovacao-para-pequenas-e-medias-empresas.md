@@ -4,7 +4,7 @@ layout: post
 author: 'Cunha, Angel'
 categories: Inovação Consultoria
 excerpt_separator: <!--more-->
-image: img20200625.jpg
+image: post20200625.jpg
 ---
 **Consultoria empresarial voltada à inovação significa receber orientação de quem tem conhecimento e experiência em soluções inovadoras para você incorporar na sua empresa. A consultoria te mostrará um caminho mais certeiro para alcançar aquela receita desejada, usando ferramentas e metodologias cientificamente testadas que surtem efeitos imediatos.**
 
@@ -62,4 +62,3 @@ Isso tudo não passa de gestão, por isso garanto que o **empresário sairá dep
 Agora ficou bem fácil, basta clicar no botão abaixo e começar agora a transformação na sua empresa que você tanto deseja. Dentre as pessoas que tem grandes ideias e as que realmente as colocam em prática existe um abismo de 99%. Seja aquele 1% que não deixa a oportunidade passar.
 
 [Receba seu diagnóstico empresarial de graça! Com direito a 30 min de consultoria de inovação!](https://forms.gle/BZye9mLN6D8Jt28b6)
-
