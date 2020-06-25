@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Lorem Ipsum!
-author: Cunha, Angel
-day: 20
-month: Dec
+author: 'Cunha, Angel'
 categories: horror 2020
 excerpt_separator: <!--more-->
 comments: #false to disable comments on this post

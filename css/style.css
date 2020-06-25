@@ -924,18 +924,16 @@ h3 {
       font-size: 60px;
       font-weight: 400;
       line-height: 74px;
-      margin-bottom: 40px;
+      margin-bottom: 0px;
       color: #fff; }
       @media (max-width: 767px) {
         .slider_area .single_slider .slider_text h3 {
           font-size: 30px;
-          margin-bottom: 30px;
           line-height: 45px; } }
       @media (min-width: 768px) and (max-width: 991px) {
         .slider_area .single_slider .slider_text h3 {
           font-size: 34px;
-          line-height: 1.4;
-          margin-bottom: 35px; } }
+          line-height: 1.4; } }
       @media (min-width: 992px) and (max-width: 1200px) {
         .slider_area .single_slider .slider_text h3 {
           font-size: 40px;
@@ -943,6 +941,32 @@ h3 {
       @media (min-width: 1200px) and (max-width: 1500px) {
         .slider_area .single_slider .slider_text h3 {
           font-size: 60px;
+          font-weight: 400;
+          line-height: 74px; } }
+    .slider_area .single_slider .slider_text h2 {
+      font-family: "Roboto", sans-serif;
+      font-size: 40px;
+      font-weight: 400;
+      line-height: 74px;
+      margin-bottom: 40px;
+      color: #fff; }
+      @media (max-width: 767px) {
+        .slider_area .single_slider .slider_text h2 {
+          font-size: 20px;
+          margin-bottom: 30px;
+          line-height: 45px; } }
+      @media (min-width: 768px) and (max-width: 991px) {
+        .slider_area .single_slider .slider_text h2 {
+          font-size: 27px;
+          line-height: 1.4;
+          margin-bottom: 35px; } }
+      @media (min-width: 992px) and (max-width: 1200px) {
+        .slider_area .single_slider .slider_text h2 {
+          font-size: 34px;
+          line-height: 1.4; } }
+      @media (min-width: 1200px) and (max-width: 1500px) {
+        .slider_area .single_slider .slider_text h2 {
+          font-size: 40px;
           font-weight: 400;
           line-height: 74px; } }
     .slider_area .single_slider .slider_text p {
