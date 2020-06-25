@@ -5,6 +5,7 @@ author: 'Cunha, Angel'
 categories: Inovação Consultoria
 excerpt_separator: <!--more-->
 image: post20200625.jpg
+title: Consultoria de inovação para pequenas e médias empresas
 ---
 **Consultoria empresarial voltada à inovação significa receber orientação de quem tem conhecimento e experiência em soluções inovadoras para você incorporar na sua empresa. A consultoria te mostrará um caminho mais certeiro para alcançar aquela receita desejada, usando ferramentas e metodologias cientificamente testadas que surtem efeitos imediatos.**
 <!--more-->
