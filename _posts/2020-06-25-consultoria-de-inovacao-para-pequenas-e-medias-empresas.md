@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: 'Cunha, Angel'
-categories: Inovação Consultoria
+categories: inovação consultoria
 excerpt_separator: <!--more-->
 image: post20200625.jpg
 title: Consultoria de inovação para pequenas e médias empresas
