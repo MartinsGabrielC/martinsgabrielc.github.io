@@ -66,21 +66,13 @@ baseurl: ""
 collections:
   category:
     output: true
-  tag:
-    output: true
+  author:
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: category
     values:
       layout: "category"
-  -
-    scope:
-      path: ""
-      type: tag
-    values:
-      layout: "tag"
 
 
 permalink: /:title/

@@ -29,6 +29,18 @@ layout: default
                      </div>
                   </div>
                </div>
+               <div class="blog-author">
+                  <div class="media align-items-center">
+                     {% assign author = site.author | where:"name", page.author  | first %}
+                     <img src="/images/blog/author/{{ author.picture }}" alt="">
+                     <div class="media-body">
+                        <a href="#">
+                           <h4>{{ author.display }}</h4>
+                        </a>
+                        <p>{{ author.description }}</p>
+                     </div>
+                  </div>
+               </div>
                <div class="navigation-area">
                      <div class="row">
                         <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
