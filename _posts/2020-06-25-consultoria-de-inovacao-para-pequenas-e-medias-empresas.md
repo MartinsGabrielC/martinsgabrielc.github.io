@@ -42,7 +42,7 @@ Quando sua empresa está estagnada, ou seja, tem recurso entrando, mas a receita
 - ### Como sairei depois dessa prestação de serviços?
 	O empresário sairá com mais conhecimento prático do que fazer para atingir seus objetivos empresariais. Aplicará a gestão da inovação dentro da sua organização e alcançará o faturamento desejado, ou o investimento com menos riscos para crescer.
 
-[Receba seu diagnóstico empresarial de graça! Com direito a 30 minutos de consultoria de inovação!](https://forms.gle/BZye9mLN6D8Jt28b6)
+[Clique aqui para receber seu diagnóstico empresarial de graça! Com direito a 30 minutos de consultoria de inovação!](https://forms.gle/BZye9mLN6D8Jt28b6)
 
 ## COMO A MÁGICA ACONTECE
 Para começarmos imagine que sua empresa está indo muito bem, com uma clientela fixa; Tem algumas reclamações, mas nada que precise muito da sua atenção. Porque, afinal, a conta bancária da empresa está estável, não diminui e não cresce faz algum tempo. Pronto, já respondemos a pergunta **quando devo procurar uma consultoria?** 
@@ -61,4 +61,4 @@ Isso tudo não passa de gestão, por isso garanto que o **empresário sairá dep
 ## BORA FAZER ESSA INOVAÇÃO ACONTECER HOJE? #Euteajudo
 Agora ficou bem fácil, basta clicar no botão abaixo e começar agora a transformação na sua empresa que você tanto deseja. Dentre as pessoas que tem grandes ideias e as que realmente as colocam em prática existe um abismo de 99%. Seja aquele 1% que não deixa a oportunidade passar.
 
-[Receba seu diagnóstico empresarial de graça! Com direito a 30 min de consultoria de inovação!](https://forms.gle/BZye9mLN6D8Jt28b6)
+[Clique aqui para receber seu diagnóstico empresarial de graça! Com direito a 30 min de consultoria de inovação!](https://forms.gle/BZye9mLN6D8Jt28b6)
