@@ -18,6 +18,9 @@
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a8cff', endColorstr='#054680',GradientType=0 ); /* IE6-9 */
         @include border-radius(5px);
         margin-bottom: 30px;
+        @media (min-width: 992px){
+            height: 100%;
+        }
         .service_icon{
             margin: 50px auto 43px auto;
             display: inline-block;
@@ -37,7 +40,7 @@
             }
         }
         .service_content{
-            padding: 30px 50px 50px 50px;
+            padding: 30px 50px 50px 30px;
             margin-top: 28px;
             border-top: 1px solid rgba(255,255,255,.15);
             @media #{$mid_device} {
@@ -53,22 +56,23 @@
                     z-index: 0;
                     padding-left: 18px;
                     &::before{
-                        width: 8px;
-                        height: 8px;
-                        @include border-radius(50%);
-                        content: '';
-                        position: absolute;
-                        left: 0;
-                        top: 50%;
-                        transform: translateY(-50%);
-                        background: #33D4D6;
+                        transform: translateY(10%);
+                        content: "\2022";
+                        color: #33D4D6;
+                        font-weight: bold;
+                        display: inline-block;
+                        width: 20px;
+                        font-size: 30px;
                     }
                 }
             }
             .apply_btn{
                 margin-top: 40px;
                 button{
-                    width: 100%;
+                    width: 75%;
+                    position: absolute;
+                    bottom: 40px;
+                    left: 12.5%;
                 }
             }
         }

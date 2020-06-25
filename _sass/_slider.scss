@@ -1,5 +1,5 @@
 .slider_bg_1{
-    background-image: url(../images/slide1.jpg );
+    background-image: url(../images/bg-slide.jpg );
 }
 .slider_area{
     position: relative;
@@ -69,27 +69,25 @@
                 font-family: $font1;
                 font-size: 40px;
                 font-weight: 400;
-                line-height: 74px;
-                margin-bottom: 40px;
+                line-height: 50px;
+                margin-bottom: 0px;
                 color: #fff;
                 @media #{$mobile_device} {
                     font-size: 20px;
-                    margin-bottom: 30px;
-                    line-height: 45px;
+                    line-height: 30px;
                 }
                 @media #{$tablet_device} {
                     font-size: 27px;
-                    line-height: 1.4;
-                    margin-bottom: 35px;
+                    line-height: 37px;
                 }
                 @media #{$mid_device} {
                     font-size: 34px;
-                    line-height: 1.4;
+                    line-height: 44px;
                 }
                 @media #{$large_device} {
                     font-size: 40px;
                     font-weight: 400;
-                    line-height: 74px;
+                    line-height: 50px;
                 }
             }
             p{
@@ -146,9 +144,7 @@
             }
         }
         .questionnaire{
-            img{
-                margin-bottom: 19px;
-            }
+            margin-top: 30px;
         }
     }
     .payment_form{

@@ -882,7 +882,7 @@ h3 {
       right: 10px; } }
 
 .slider_bg_1 {
-  background-image: url(../images/slide1.jpg); }
+  background-image: url(../images/bg-slide.jpg); }
 
 .slider_area {
   position: relative;
@@ -947,28 +947,26 @@ h3 {
       font-family: "Roboto", sans-serif;
       font-size: 40px;
       font-weight: 400;
-      line-height: 74px;
-      margin-bottom: 40px;
+      line-height: 50px;
+      margin-bottom: 0px;
       color: #fff; }
       @media (max-width: 767px) {
         .slider_area .single_slider .slider_text h2 {
           font-size: 20px;
-          margin-bottom: 30px;
-          line-height: 45px; } }
+          line-height: 30px; } }
       @media (min-width: 768px) and (max-width: 991px) {
         .slider_area .single_slider .slider_text h2 {
           font-size: 27px;
-          line-height: 1.4;
-          margin-bottom: 35px; } }
+          line-height: 37px; } }
       @media (min-width: 992px) and (max-width: 1200px) {
         .slider_area .single_slider .slider_text h2 {
           font-size: 34px;
-          line-height: 1.4; } }
+          line-height: 44px; } }
       @media (min-width: 1200px) and (max-width: 1500px) {
         .slider_area .single_slider .slider_text h2 {
           font-size: 40px;
           font-weight: 400;
-          line-height: 74px; } }
+          line-height: 50px; } }
     .slider_area .single_slider .slider_text p {
       font-size: 30px;
       font-weight: 400;
@@ -1014,8 +1012,8 @@ h3 {
           cursor: pointer; }
           .slider_area .single_slider .slider_text .quality ul li button:hover {
             background: #F91842; }
-    .slider_area .single_slider .questionnaire img {
-      margin-bottom: 19px; }
+    .slider_area .single_slider .questionnaire {
+      margin-top: 30px; }
   .slider_area .payment_form {
     padding: 50px;
     -webkit-border-radius: 5px;
@@ -2138,6 +2136,9 @@ p #amount {
     -moz-border-radius: 5px;
     border-radius: 5px;
     margin-bottom: 30px; }
+    @media (min-width: 992px) {
+      .service_area .single_service {
+        height: 100%; } }
     .service_area .single_service .service_icon {
       margin: 50px auto 43px auto;
       display: inline-block; }
@@ -2152,7 +2153,7 @@ p #amount {
       font-weight: 400;
       font-size: 30px; }
     .service_area .single_service .service_content {
-      padding: 30px 50px 50px 50px;
+      padding: 30px 50px 50px 30px;
       margin-top: 28px;
       border-top: 1px solid rgba(255, 255, 255, 0.15); }
       @media (min-width: 992px) and (max-width: 1200px) {
@@ -2167,21 +2168,20 @@ p #amount {
         z-index: 0;
         padding-left: 18px; }
         .service_area .single_service .service_content ul li::before {
-          width: 8px;
-          height: 8px;
-          -webkit-border-radius: 50%;
-          -moz-border-radius: 50%;
-          border-radius: 50%;
-          content: '';
-          position: absolute;
-          left: 0;
-          top: 50%;
-          transform: translateY(-50%);
-          background: #33D4D6; }
+          transform: translateY(10%);
+          content: "\2022";
+          color: #33D4D6;
+          font-weight: bold;
+          display: inline-block;
+          width: 20px;
+          font-size: 30px; }
       .service_area .single_service .service_content .apply_btn {
         margin-top: 40px; }
         .service_area .single_service .service_content .apply_btn button {
-          width: 100%; }
+          width: 75%;
+          position: absolute;
+          bottom: 40px;
+          left: 12.5%; }
 
 .works_area {
   padding-top: 150px;
@@ -3567,8 +3567,6 @@ h6 {
     font-size: 14px;
     line-height: 24px;
     font-weight: 400; }
-  .single-recent-blog-post:hover img {
-    transform: scale(1.23) rotate(10deg); }
 
 .tags .tag_btn {
   font-size: 12px;
