@@ -3313,6 +3313,10 @@ h6 {
       transition: 0.5s; }
   .blog_area.single-post-area {
     margin-top: 0; }
+  .blog_area .content li {
+    list-style: disc; }
+  .blog_area .content ul {
+    margin: 0 0 15px 30px; }
 
 .single-blog {
   overflow: hidden;

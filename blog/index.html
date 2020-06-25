@@ -33,7 +33,7 @@ layout: default
                             <a class="d-inline-block" href="{{ site.baseurl }}{{ post.url }}">
                                 <h2>{{ post.title }}</h2>
                             </a>
-                            <p>{{ post.excerpt }}</p>
+                            <div class="content">{{ post.excerpt }}</div>
                             <ul class="blog-info-link">
                                 <li><a href="#"><i class="fa fa-user"></i> {{ post.author }}</a></li>
                                 {% if post.categories.size > 0 %}<li><a href="#"><i class="fa fa-list"></i> {% for category in post.categories %} {{category}},{% endfor %}</a></li> {% endif %}

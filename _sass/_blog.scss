@@ -39,6 +39,14 @@
     &.single-post-area{
         margin-top:0;
     }
+    .content{
+        li {
+            list-style: disc;
+        }
+        ul {
+            margin: 0 0 15px 30px;
+        }
+    }
 }
 
 .single-blog {

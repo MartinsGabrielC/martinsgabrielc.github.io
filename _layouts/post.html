@@ -15,17 +15,19 @@ layout: default
 </div>
 <!--/ bradcam_area  -->
 <section class="blog_area single-post-area">
-      <div class="container">
-         <div class="row">
-            <div class="col">
-               	<div class="single-post">
-               		<div class="blog_details">
-	               		<ul class="blog-info-link mt-3 mb-4">
-		                    <li><a href="#"><i class="fa fa-user"></i> {{ page.author }}</a></li>
-		                    <li><a href="#"><i class="fa fa-calendar"></i>{{ page.date | date: "%B %e, %Y" }}</a></li>
-		                </ul>
-		                {{ content }}
-		            </div>
+   <div class="container">
+      <div class="row">
+         <div class="col">
+               <div class="single-post">
+                  <div class="blog_details">
+                     <ul class="blog-info-link mt-3 mb-4">
+                        <li><a href="#"><i class="fa fa-user"></i> {{ page.author }}</a></li>
+                        <li><a href="#"><i class="fa fa-calendar"></i>{{ page.date | date: "%B %e, %Y" }}</a></li>
+                     </ul>
+                     <div class="content">
+                     {{ content }}
+                     </div>
+                  </div>
                </div>
                <div class="navigation-area">
                      <div class="row">
@@ -71,10 +73,10 @@ layout: default
                         </div>
                      </div>
                   </div>
-               <div class="comments-area">
-               	{% include disqus.html %}
-               </div>
-           </div>
-       </div>
+                  <div class="comments-area">
+                     {% include disqus.html %}
+                  </div>
+         </div>
+      </div>
    </div>
 </section>
