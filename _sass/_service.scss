@@ -12,9 +12,9 @@
     .single_service{
         /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0a8cff+0,054680+100 */
         background: #0a8cff; /* Old browsers */
-        background: -moz-linear-gradient(top,  #0a8cff 0%, #054680 100%); /* FF3.6-15 */
-        background: -webkit-linear-gradient(top,  #0a8cff 0%,#054680 100%); /* Chrome10-25,Safari5.1-6 */
-        background: linear-gradient(to bottom,  #0a8cff 0%,#054680 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        background: -moz-linear-gradient(top,  #808183 0%,#59595B 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(top,  #808183 0%,#59595B 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(to bottom,  #808183 0%,#59595B 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a8cff', endColorstr='#054680',GradientType=0 ); /* IE6-9 */
         @include border-radius(5px);
         margin-bottom: 30px;
@@ -27,7 +27,7 @@
         }
         .info{
             span{
-                font-size: 16px;
+                font-size: 19px;
                 color: #fff;
                 font-weight: 400;
                 display: block;
@@ -58,7 +58,7 @@
                     &::before{
                         transform: translateY(10%);
                         content: "\2022";
-                        color: #33D4D6;
+                        color: #F16521;
                         font-weight: bold;
                         display: inline-block;
                         width: 20px;

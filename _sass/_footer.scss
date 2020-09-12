@@ -42,6 +42,22 @@
                 @media #{$mobile_device} {
                     margin-bottom: 20px;
                 }
+                img {
+                    width: 140px;
+                    height: 180px;
+                    @media #{$mobile_device} {
+                        width: 108px;
+                        height: 140px;
+                    }
+                    @media #{$tablet_device} {
+                        width: 108px;
+                        height: 140px;
+                    }
+                    @media #{$mid_device} {
+                        width: 108px;
+                        height: 140px;
+                    }
+                }
             }
             p {
 
@@ -209,10 +225,10 @@
                  
                 }
                 &:hover a{
-                    color: #fff !important;
-                    background: #0A8CFF;
+                    color: #F16521 !important;
+                    background: #231F20;
                     border-color: transparent;
-                    border: 1px solid #0A8CFF ;
+                    border: 1px solid #231F20 ;
                 }
             }
         }

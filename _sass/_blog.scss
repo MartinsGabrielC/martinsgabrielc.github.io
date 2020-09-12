@@ -25,13 +25,14 @@
         margin-bottom: 100px;
     }
     a{
-        color: $font_1 !important;
+        color: $font_1;
         text-decoration: none;
         @include transform_time(.5s);
         &:hover, :hover{
-            background: -webkit-linear-gradient( 131deg, $btn_bg 0%, $btn_bg 99%);
+            color: #F16521;
+            // background: -webkit-linear-gradient( 131deg, $btn_bg 0%, $btn_bg 99%);
             -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            // -webkit-text-fill-color: transparent;
             text-decoration: none;
             @include transform_time(.5s);
         }
@@ -573,7 +574,7 @@
         color: $heading_color2;
 
         &:hover {
-            color: $btn_bg;
+            color: #F16521;
         }
     }
 
@@ -632,8 +633,8 @@
         bottom: -10px;
         left: 10px;
         display: block;
-        color: $white_color;
-        background-color: $btn_bg;
+        color:#fff;
+        background-color:#231F20;
         padding: 8px 15px;
         border-radius: 5px;
         text-align: center;
@@ -647,7 +648,7 @@
         h3 {
             font-size: 22px;
             font-weight: 600;
-            color: $white_color;
+            color:#fff;
             margin-bottom: 0;
             line-height: 1.2;
 
@@ -659,7 +660,7 @@
         p {
             font-size: 18px;
             margin-bottom: 0;
-            color: $white_color;
+            color:#fff;
 
             @media(min-width: 768px) {
                 font-size: 18px;
