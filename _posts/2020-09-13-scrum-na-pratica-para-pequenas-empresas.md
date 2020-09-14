@@ -92,6 +92,7 @@ Aqui na INOVAndo temos duas fãs de Harry Potter, sonho até hoje com minha cart
 
 Estrelando como Product Owner - Harry Potter, o Harry é o personagem principal (jura?), ele possui alguns poderes, além da magia, ele possui um conexão direta com os pensamentos do Voldemort , de forma a entender os próximos passos daquele que não devemos nomear, assim ele evita que o pior aconteça (nosso herói <3).
 
+![harry.gif]({{site.baseurl}}/_posts/harry.gif)
 
 
 Como Scrum Master temos o Dumbledore, ele que irá orientar (na maioria da vezes hehe) e conduzir todos para que o Voldemort não acabe com o mundo (OMG!). Ele inspeciona e ajuda o time a mudar a rota quando necessário.
