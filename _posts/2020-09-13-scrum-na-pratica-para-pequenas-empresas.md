@@ -56,7 +56,7 @@ O Scrum possui 3 princípios básicos:
 Esses princípios precisam ser compreendidos por toda a equipe do projeto, todos sabem o que cada um está fazendo, trabalham de forma colaborativa, e se necessário, mudando a sua rota e adaptando o trabalho, assim como no posicionamento de bola no Rugby.
 
 Figura 1 – Framework Scrum.
-Fonte: Scrum.org 
+Fonte: [Scrum.org](https://www.scrum.org/resources/scrum-framework-poster) 
 A figura acima é uma das mais conhecidas e representativa do Scrum, nela temos todas as composições dele: os papéis, artefatos e cerimônias. Mas calma! respira fundo, que a gente vai te explicar cada partezinha dessa imagem para você :)
 O Scrum é composto por: cerimônias (reuniões), papéis e artefatos, além dessa composição o Scrum é realizado dentro de Sprints (ixi complicou né, calma que estamos descomplicando). 
 Pense na Sprint como um período de tempo que você irá realizar o seu projeto, a Sprint pode acontecer entre 1 a 4 semanas (você quem escolhe a duração das sprints) ao final deste período de tempo ocorrerá sempre a entrega de uma parte do projeto, até que ocorra a entrega do projeto total. 
