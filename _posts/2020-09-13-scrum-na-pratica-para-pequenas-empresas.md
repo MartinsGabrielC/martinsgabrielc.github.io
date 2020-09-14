@@ -105,7 +105,7 @@ Em uma próxima falaremos mais da Hermione <3
 Uffa, falei demais né hehe. E sim, é possível aplicar o Scrum em sua micro e pequena empresa para entregar o máximo de valor ao seu cliente. Vamos olhar o exemplo a seguir: 
 
 
-INOVAndo na prática
+## INOVAndo na prática
 Aqui na INOVAndo na prática, sabemos que a teoria é legal e necessária para entendermos o contexto, né?! Mas o que nos move é aplicar NA PRÁTICA, vamos lá? :D
 
 Vamos considerar como um exemplo um restaurante, pode ser aquele do seu bairro:
