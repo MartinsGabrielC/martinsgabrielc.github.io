@@ -41,7 +41,7 @@ Agora que já entendemos o mundo que estamos vivendo e como surgiu o conceito do
 
 Luz na passarela para o SCRUM!
 
-O nome Scrum foi utilizado pela primeira vez por Takeuchi e Nonaka em 1986 no artigo “The new product development game” publicado na Harvard Business Review, neste artigo os autores relatam que os projetos desenvolvidos por equipes pequenas e multidisciplinares produziam melhores resultados, e associaram essa nova forma de trabalho ao Scrum do Rugby (confesso que precisei assistir Rugby para entender melhor, mas vem comigo que te explico mais sobre o scrum do Rugby), o momento do scrum no Rugby é quando acontece o reposicionamento da bola no jogo.O time se une, como um grande bloco, com o mesmo objetivo, e é possível passar a bola pra frente e para trás, de forma bem dinâmica e ainda assim consistente.. 
+O nome Scrum foi utilizado pela primeira vez por Takeuchi e Nonaka em 1986 no artigo “[The new product development game](https://hbr.org/1986/01/the-new-new-product-development-game)” publicado na Harvard Business Review, neste artigo os autores relatam que os projetos desenvolvidos por equipes pequenas e multidisciplinares produziam melhores resultados, e associaram essa nova forma de trabalho ao Scrum do Rugby (confesso que precisei assistir Rugby para entender melhor, mas vem comigo que te explico mais sobre o scrum do Rugby), o momento do scrum no Rugby é quando acontece o reposicionamento da bola no jogo.O time se une, como um grande bloco, com o mesmo objetivo, e é possível passar a bola pra frente e para trás, de forma bem dinâmica e ainda assim consistente.. 
 
 
 
