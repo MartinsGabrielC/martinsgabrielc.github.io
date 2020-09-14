@@ -10,7 +10,7 @@ title: Scrum na Prática para Micro e Pequenas Empresas
 ## Vamos falar sobre o SCRUM e como aplicar esta abordagem nas MPEs? :)
 Quando falamos sobre as novas formas de gerir os projetos e equipes as metodologias ágeis dominam as conversas. Venha entender o por quê essas palavras são as buzzwords.<!--more-->
 
-Neste artigo, vamos falar sobre um dos Frameworks mais comentados e mais utilizado pelas empresas do mundo (Annual State of Agile Report, 2019), o SCRUM.
+Neste artigo, vamos falar sobre um dos Frameworks mais comentados e mais utilizado pelas empresas do mundo ([Annual State of Agile Report](https://explore.digital.ai/state-of-agile/13th-annual-state-of-agile-report), 2019), o SCRUM.
 
 Entenda mais sobre essa abordagem aqui na INOVAndo na Prática, da nossa parte prometemos explicar tudo que é realmente importante, de maneira bem leve.Você vai aprender como aplicar em seu negócio, seja ele um restaurante, um salão de beleza ou qualquer outro estabelecimento de pequeno porte.  
 
