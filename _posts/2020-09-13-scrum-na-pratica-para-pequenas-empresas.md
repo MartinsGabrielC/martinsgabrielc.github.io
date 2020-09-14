@@ -24,13 +24,13 @@ Antes de começarmos propriamente no Scrum, vamos falar um pouco sobre o context
 - Nós podemos te ajudar!
 
 
-O que é o Mundo VUCA?
+## O que é o Mundo VUCA?
 Estamos vivendo em um mundo VUCA, um acrônimo das seguintes palavras em inglês: Volatility, Uncertainty, Complexity e Ambiguity (Volátil, Incerto, Complexo e Ambíguo).A origem deste termo foi criado em 1990, após a guerra fria. Ele representa as características do mundo em que estamos vivemos hoje, um mundo de mudanças rápidas e com diversas facetas.
 E o que esse tal mundo VUCA tem a nos dizer? 
 Os dados e as informações estão cada vez mais aceleradas, sofremos cada vez mais pressão por inovação, a concorrência está mais acirrada, precisamos ter ideias e criar soluções que sejam mais ágeis.
 
 
-Nasce o Ágil.  
+## Nasce o Ágil.  
 
 Nesse contexto nasceu as metodologias ágeis. Um modo de trabalho que se opunha aos modelos mais tradicionais. Um novo modo de desenvolver projetos, mais do que uma metodologia,  é uma forma de pensarl, focando mais no aspecto humano, na execução contínua de teste e a na colaboração do time. 
 
@@ -39,7 +39,7 @@ Algumas das abordagens mais conhecidas são: Scrum (iremos mais falar neste arti
 
 Agora que já entendemos o mundo que estamos vivendo e como surgiu o conceito do ágil, vamos para a melhor parte do artigo.
 
-Luz na passarela para o SCRUM!
+## Luz na passarela para o SCRUM!
 
 O nome Scrum foi utilizado pela primeira vez por Takeuchi e Nonaka em 1986 no artigo “[The new product development game](https://hbr.org/1986/01/the-new-new-product-development-game)” publicado na Harvard Business Review, neste artigo os autores relatam que os projetos desenvolvidos por equipes pequenas e multidisciplinares produziam melhores resultados, e associaram essa nova forma de trabalho ao Scrum do Rugby (confesso que precisei assistir Rugby para entender melhor, mas vem comigo que te explico mais sobre o scrum do Rugby), o momento do scrum no Rugby é quando acontece o reposicionamento da bola no jogo.O time se une, como um grande bloco, com o mesmo objetivo, e é possível passar a bola pra frente e para trás, de forma bem dinâmica e ainda assim consistente.. 
 
@@ -48,9 +48,10 @@ O nome Scrum foi utilizado pela primeira vez por Takeuchi e Nonaka em 1986 no ar
 Ok! Agora vamos para melhor parte, como é que isso tudo funciona e o porquê mais de 71% das empresas do mundo estão utilizando essa abordagem.
 
 O Scrum possui 3 princípios básicos: 
-Transparência;
-Inspeção;
-Adapatação;
+- Transparência;
+- Inspeção;
+- Adapatação;
+
 
 Esses princípios precisam ser compreendidos por toda a equipe do projeto, todos sabem o que cada um está fazendo, trabalham de forma colaborativa, e se necessário, mudando a sua rota e adaptando o trabalho, assim como no posicionamento de bola no Rugby.
 
@@ -61,27 +62,29 @@ O Scrum é composto por: cerimônias (reuniões), papéis e artefatos, além des
 Pense na Sprint como um período de tempo que você irá realizar o seu projeto, a Sprint pode acontecer entre 1 a 4 semanas (você quem escolhe a duração das sprints) ao final deste período de tempo ocorrerá sempre a entrega de uma parte do projeto, até que ocorra a entrega do projeto total. 
 Essa abordagem permite que seja feita sempre alguma entrega de valor ao cliente, e por isso que a adaptação é um princípio, pois o cliente pode pedir por alterações durante o processo. 
 
-Analisando agora a composição do Scrum.Começando com os artefatos, temos 2 principais artefatos:
-Product Backlog - Lista de atividades que precisa ser realizadas para entrega total do produto;
-Sprint Backlog - Lista de atividades que precisa ser realizada para a entrega parcial do produto, ao final de cada sprint;
+- Analisando agora a composição do Scrum.Começando com os artefatos, temos 2 principais artefatos:
+- Product Backlog - Lista de atividades que precisa ser realizadas para entrega total do produto;
+- Sprint Backlog - Lista de atividades que precisa ser realizada para a entrega parcial do produto, ao final de cada sprint;
+
 
 Já os Papéis se refere à equipe que compõe o projeto:
 
-Product Owner (P.O.) - Dono do produto, seu papel é fazer o intercâmbio entre o cliente (quem precisa da solução) e o time, as pessoas que desenvolverão a solução. O P.O. precisa garantir que será entregue ao cliente o máximo de valor do produto;
-Scrum Master - Mestre do Scrum, é a pessoa que irá conduzir o time da melhor maneira, tirando as barreiras que surgirem, garantindo que os princípios do Framework estejam sendo praticados por todos;
-Time ou Equipe de desenvolvimento - São as pessoas que realmente irão construir cada pedacinho do projeto, é um time colaborativo, são eles  auto gerenciados e sabem da sua capacidade para entregar o projeto;
+- Product Owner (P.O.) - Dono do produto, seu papel é fazer o intercâmbio entre o cliente (quem precisa da solução) e o time, as pessoas que desenvolverão a solução. O P.O. precisa garantir que será entregue ao cliente o máximo de valor do produto;
+- Scrum Master - Mestre do Scrum, é a pessoa que irá conduzir o time da melhor maneira, tirando as barreiras que surgirem, garantindo que os princípios do Framework estejam sendo praticados por todos;
+- Time ou Equipe de desenvolvimento - São as pessoas que realmente irão construir cada pedacinho do projeto, é um time colaborativo, são eles  auto gerenciados e sabem da sua capacidade para entregar o projeto;
+
 
 E por fim, as 4 cerimônias ou reuniões, sã oelas: 
 
-Sprint Planning - Reunião de Planejamento do projeto, onde é analisada a Sprint Backlog, lista de atividades do que será feito no ciclo de tempo determinado. Todo o time irá analisar o que está sendo pedido pelo P.O., e verificar se o time tem a capacidade para realizar a entrega e o que dará para fazer no período estipulado da sprint;
-Daily - Reuniões diárias de,no máximo, 15 minutos para verificar o que está sendo feito pelo time no dia-a-dia. Nessa reunião são feitas três perguntas: o que você fez ontem, o que irá fazer hoje e se existe alguma barreira que precisa que precise ser removida para realiza rseu trabalho.
-Sprint Review - Reunião para rever a entrega do projeto da sprint, observando o que foi construído do Sprint Backlog, ou seja, é um momento para todo o time falar do que foi combinado a ser entregue o do que efetivamente foi feito;
-Sprint Retrospective - Reunião com o objetivo de realizar uma retrospectiva do processo que do time durante o período da sprint, ou seja, será discutido o relacionamento, as atuações de cada integrante do time, o que deu certo durante a sprint e o que não deu.  Nesse é o momento que o time irá refletir e sugerir as melhorias de processo e comportamento do próprio time para a próxima entrega.
+- Sprint Planning - Reunião de Planejamento do projeto, onde é analisada a Sprint Backlog, lista de atividades do que será feito no ciclo de tempo determinado. Todo o time irá analisar o que está sendo pedido pelo P.O., e verificar se o time tem a capacidade para realizar a entrega e o que dará para fazer no período estipulado da sprint;
+- Daily - Reuniões diárias de,no máximo, 15 minutos para verificar o que está sendo feito pelo time no dia-a-dia. Nessa reunião são feitas três perguntas: o que você fez ontem, o que irá fazer hoje e se existe alguma barreira que precisa que precise ser removida para realiza rseu trabalho.
+- Sprint Review - Reunião para rever a entrega do projeto da sprint, observando o que foi construído do Sprint Backlog, ou seja, é um momento para todo o time falar do que foi combinado a ser entregue o do que efetivamente foi feito;
+- Sprint Retrospective - Reunião com o objetivo de realizar uma retrospectiva do processo que do time durante o período da sprint, ou seja, será discutido o relacionamento, as atuações de cada integrante do time, o que deu certo durante a sprint e o que não deu.  Nesse é o momento que o time irá refletir e sugerir as melhorias de processo e comportamento do próprio time para a próxima entrega.
 
 Ao finalizar uma sprint, uma nova sprint será iniciada e dessa forma todo o produto seja entregue.Desta forma o projeto é entregue conforme as expectativas do cliente, sendo iterado ao longo de todo o processo.
 
 
-Nosso jeito NERD de ser!
+## Nosso jeito NERD de ser!
 
 Aqui na INOVAndo temos duas fãs de Harry Potter, sonho até hoje com minha cartinha de Hogwarts. E queremos pedir licença à J.K. Rowling para fazer uma analogia com o universo do Harry Potter e o Scrum, esperamos que nessa altura do campeonato você tenha assistido os filmes, ou lido os livros. Iremos simplificar para vocês os papéis dentro do SCRUM.
 
