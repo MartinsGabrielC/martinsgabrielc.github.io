@@ -101,6 +101,7 @@ Como Scrum Master temos o Dumbledore, ele que irá orientar (na maioria da vezes
 
 A ordem da fênix é o nosso time desenvolvimento, colaborativo, com muita confiança um nos outros e trabalhando juntos, em um ambiente seguro, para garantir que o Harry consiga enfrentar o nosso vilão.
 
+![ordem da feniz.gif]({{site.baseurl}}/_posts/ordem da feniz.gif)
 
 
 Em uma próxima falaremos mais da Hermione <3
