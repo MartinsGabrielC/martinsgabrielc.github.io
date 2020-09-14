@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 author: 'Fonseca, Nicole'
-categories: inovação consultoria
+categories: inovação consultoria scrum ágil
 excerpt_separator: <!--more-->
-image: post20200625.jpg
+image: metodologia-agil-scrum-desenvolvimento-sites-blog-v01.jpg
 title: Scrum na Prática para Micro e Pequenas Empresas
 ---
 ## Vamos falar sobre o SCRUM e como aplicar esta abordagem nas MPEs? :)
