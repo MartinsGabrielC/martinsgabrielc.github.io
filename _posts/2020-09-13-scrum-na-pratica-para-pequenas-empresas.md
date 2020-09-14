@@ -55,7 +55,9 @@ O Scrum possui 3 princípios básicos:
 
 
 Esses princípios precisam ser compreendidos por toda a equipe do projeto, todos sabem o que cada um está fazendo, trabalham de forma colaborativa, e se necessário, mudando a sua rota e adaptando o trabalho, assim como no posicionamento de bola no Rugby.
-![scrum.PNG]({{site.baseurl}}/_posts/scrum.PNG)
+<p class="centered-text">
+<img class="centered" src="{{site.url}}/images/scrum.PNG"/>
+</p>
 
 Figura 1 – Framework Scrum.
 Fonte: [Scrum.org](https://www.scrum.org/resources/scrum-framework-poster) 
