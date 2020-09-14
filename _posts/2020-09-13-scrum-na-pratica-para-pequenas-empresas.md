@@ -32,7 +32,7 @@ Os dados e as informações estão cada vez mais aceleradas, sofremos cada vez m
 
 ## Nasce o Ágil.  
 
-Nesse contexto nasceu as metodologias ágeis. Um modo de trabalho que se opunha aos modelos mais tradicionais. Um novo modo de desenvolver projetos, mais do que uma metodologia,  é uma forma de pensarl, focando mais no aspecto humano, na execução contínua de teste e a na colaboração do time. 
+Nesse contexto nasceu as metodologias ágeis. Um modo de trabalho que se opunha aos modelos mais tradicionais. Um novo modo de desenvolver projetos, mais do que uma metodologia,  é uma forma de pensar, focando mais no aspecto humano, na execução contínua de teste e a na colaboração do time. 
 
 As metodologias ágeis surgiram do desenvolvimento de softwares, mas logo passou a ser utilizado para o desenvolvimento de outros produtos e serviços. 
 Algumas das abordagens mais conhecidas são: Scrum (iremos mais falar neste artigo), Crystal Clear, Extreme Programming (XP), Adaptive Software Development (ASD), Feature Driven Development (FDD) e Dynamic Systems Development Method (DSDM).
