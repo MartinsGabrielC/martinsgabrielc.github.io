@@ -97,6 +97,7 @@ Estrelando como Product Owner - Harry Potter, o Harry é o personagem principal 
 
 Como Scrum Master temos o Dumbledore, ele que irá orientar (na maioria da vezes hehe) e conduzir todos para que o Voldemort não acabe com o mundo (OMG!). Ele inspeciona e ajuda o time a mudar a rota quando necessário.
 
+![giphy (1).gif]({{site.baseurl}}/_posts/giphy (1).gif)
 
 
 A ordem da fênix é o nosso time desenvolvimento, colaborativo, com muita confiança um nos outros e trabalhando juntos, em um ambiente seguro, para garantir que o Harry consiga enfrentar o nosso vilão.
