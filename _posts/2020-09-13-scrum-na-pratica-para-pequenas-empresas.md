@@ -43,7 +43,7 @@ Agora que já entendemos o mundo que estamos vivendo e como surgiu o conceito do
 
 O nome Scrum foi utilizado pela primeira vez por Takeuchi e Nonaka em 1986 no artigo “[The new product development game](https://hbr.org/1986/01/the-new-new-product-development-game)” publicado na Harvard Business Review, neste artigo os autores relatam que os projetos desenvolvidos por equipes pequenas e multidisciplinares produziam melhores resultados, e associaram essa nova forma de trabalho ao Scrum do Rugby (confesso que precisei assistir Rugby para entender melhor, mas vem comigo que te explico mais sobre o scrum do Rugby), o momento do scrum no Rugby é quando acontece o reposicionamento da bola no jogo.O time se une, como um grande bloco, com o mesmo objetivo, e é possível passar a bola pra frente e para trás, de forma bem dinâmica e ainda assim consistente.. 
 
-![scrum.gif]({{site.baseurl}}/_posts/scrum.gif)
+![scrum.gif]({{site.baseurl}}/images/blog/posts/scrum.gif)
 
 
 Ok! Agora vamos para melhor parte, como é que isso tudo funciona e o porquê mais de 71% das empresas do mundo estão utilizando essa abordagem.
@@ -92,17 +92,17 @@ Aqui na INOVAndo temos duas fãs de Harry Potter, sonho até hoje com minha cart
 
 Estrelando como Product Owner - Harry Potter, o Harry é o personagem principal (jura?), ele possui alguns poderes, além da magia, ele possui um conexão direta com os pensamentos do Voldemort , de forma a entender os próximos passos daquele que não devemos nomear, assim ele evita que o pior aconteça (nosso herói <3).
 
-![harry.gif]({{site.baseurl}}/_posts/harry.gif)
+![harry.gif]({{site.baseurl}}/images/blog/posts/harry.gif)
 
 
 Como Scrum Master temos o Dumbledore, ele que irá orientar (na maioria da vezes hehe) e conduzir todos para que o Voldemort não acabe com o mundo (OMG!). Ele inspeciona e ajuda o time a mudar a rota quando necessário.
 
-![giphy (1).gif]({{site.baseurl}}/_posts/giphy (1).gif)
+![giphy (1).gif]({{site.baseurl}}/images/blog/posts/giphy (1).gif)
 
 
 A ordem da fênix é o nosso time desenvolvimento, colaborativo, com muita confiança um nos outros e trabalhando juntos, em um ambiente seguro, para garantir que o Harry consiga enfrentar o nosso vilão.
 
-![ordem da feniz.gif]({{site.baseurl}}/_posts/ordem da feniz.gif)
+![ordem da feniz.gif]({{site.baseurl}}/images/blog/posts/ordem da feniz.gif)
 
 
 Em uma próxima falaremos mais da Hermione <3
