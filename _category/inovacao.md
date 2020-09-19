@@ -1,4 +1,4 @@
 ---
 tag: inovação
-permalink: "/blog/category/inovação"
+permalink: "/blog/category/inovacao"
 ---
