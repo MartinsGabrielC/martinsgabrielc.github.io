@@ -6,8 +6,8 @@ categories: Design Thinking em Pequenas e Médias Empresas PMEs
 excerpt_separator: <!--more-->
 image: metodologia-agil-scrum-desenvolvimento-sites-blog-v01.jpg
 ---
-**Existe uma abordagem, que pode ser utilizada nas micros,pequenas e médias empresas, que as ajuda a inovar.
-Essa abordagem é o Design Thinking. Quer saber como implementar essa forma inovadora de pensamento no seu negócio? Vem que te conto tudo o que você precisa saber :)**
+**Existe uma abordagem, que pode ser utilizada nas micros, pequenas e médias empresas que as ajudam a inovar.
+Essa abordagem é o Design Thinking. Quer saber como implementar essa forma inovadora de pensamento no seu negócio? Vem que te conto tudo o que você precisa saber :)**<!--more-->
 
 
 #### O que é Design Thinking
