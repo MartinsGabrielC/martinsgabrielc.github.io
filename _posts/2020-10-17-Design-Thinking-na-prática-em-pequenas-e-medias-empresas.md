@@ -16,7 +16,7 @@ Existe uma abordagem, que pode ser utilizada nas micros, pequenas e médias empr
 O Design Thinking segue um fluxo que consiste em mapear todos os fatores envolvidos em um problema complexo, com objetivo de adquirir uma visão sistêmica dele e uma solução completa. Todo o fluxo é gerado a partir do levantamento das reais necessidades dos envolvidos com o problema e pode ser utilizado linearmente, ou não. 
 
 **Imagem 1**: Etapas do Design Thinking
-![]({{site.baseurl}}//images/blog/posts/1.png)
+![]({{site.baseurl}}/images/blog/posts/1.png)
 **Fonte**: IDEO
 
 Ele é considerado um processo criativo em que, por meio de métodos, podemos identificar problemas e gerar **soluções inovadoras** com base em três grandes pilares: empatia, colaboração e experimentação.
