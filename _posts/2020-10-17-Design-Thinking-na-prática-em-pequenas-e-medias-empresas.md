@@ -71,7 +71,7 @@ Uma das preocupações do fundador, Rodrigo Krug, era não apenas fabricar o pro
 Hoje a Cliever é pioneira nacional em impressoras 3D!! Esse exemplo nos mostra a importância da definição do seu nicho, a empatia que devemos ter com eles e como nos diferenciar no mercado através da inovação.
 
 **Imagem 4**: Exemplo de PME Cliever
-![]({{site.baseurl}}/images/blog/posts/4.png)
+![]({{site.baseurl}}/images/blog/posts/4.JPG)
 **Fonte**:Instagram Cliever3d
 
 A [Casa Goudinho](https://www.merceariagodinho.com.br/) é outro exemplo de utilização do pilar do design thinking experimentação para  manter seu comércio em pé por mais de 100 anos, e ainda no centro de São Paulo, onde as novidades chegam primeiro.
@@ -88,7 +88,7 @@ Agora que já vimos exemplos de aplicação dos pilares do design thinking vamos
 ## Etapa de empatia
 
 **Imagem 6**: Etapa de empatia
-![]({{site.baseurl}}/images/blog/posts/6.png)
+![]({{site.baseurl}}/images/blog/posts/6.JPG)
 **Fonte**: IDEO
 
 _“Não existe um script para empatia. Não há um jeito certo ou errado. É simplesmente ouvir, dar espaço, suspender julgamentos, conectar emocionalmente e comunicar a incrivelmente curativa mensagem de “você não está sozinho(a)”._
