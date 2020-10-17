@@ -17,12 +17,13 @@ Essa abordagem é o Design Thinking. Quer saber como implementar essa forma inov
 O Design Thinking segue um fluxo que consiste em mapear todos os fatores envolvidos em um problema complexo, com objetivo de adquirir uma visão sistêmica dele e uma solução completa. Todo o fluxo é gerado a partir do levantamento das reais necessidades dos envolvidos com o problema e pode ser utilizado linearmente, ou não. 
 
 **Imagem 1**: Etapas do Design Thinking
-![]({{site.baseurl}}/Imagem 1_ Etapas do Design Thinking.png)
+![]({{site.baseurl}}/images/blog/posts/Imagem 1_ Etapas do Design Thinking.png)
 **Fonte**: IDEO
 
 Ele é considerado um processo criativo em que, por meio de métodos, podemos identificar problemas e gerar **soluções inovadoras** com base em três grandes pilares: empatia, colaboração e experimentação.
 
 **Imagem 2**: Pilares do Design Thinking
+![]({{site.baseurl}}//images/blog/posts/Imagem 2 Pilares do Design Thinking.jpg)
 **Fonte**: Tera 
 
 O Design sempre existiu, mas com a aceleração do mundo Volátil, Instável, Complexo e Ambíguo (**VUCA**) em que vivemos, se tornou necessário inovar na própria cultura do desenvolvimento de produtos e serviços. Para que as empresas consigam se manter relevantes nesse ambiente competitivo se faz necessário utilizar desta forma de pensar e criar.
