@@ -207,7 +207,7 @@ O Design Thinking prevê que realmente estejamos fazendo a diferença no mundo p
 Essa é uma das abordagens que depois que você utiliza nunca mais irá conseguir resolver problemas complexos de outra forma. 
 
 **Imagem 11**: Fluxo das etapas do Design Thinking
-![]({{site.baseurl}}/images/blog/posts/11.png)
+![]({{site.baseurl}}/images/blog/posts/11.JPG)
 **Fonte**:[Design interaction](https://www.interaction-design.org/literature/article/stage-5-in-the-design-thinking-process-test) 
 
 E para concluirmos, lembre-se que as cinco etapas detalhadas neste artigo - empatia, definição, ideação, prototipação e teste - não precisam ou devem ser etapas sequenciais, elas são “modelos” que você pode usar durante cada fase do seu projeto o objetivo delas é facilitar o máximo possível do aprendizado e valor do projeto.
