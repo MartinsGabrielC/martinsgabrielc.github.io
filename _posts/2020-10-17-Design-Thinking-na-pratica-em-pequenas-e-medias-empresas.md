@@ -3,7 +3,7 @@ published: true
 layout: post
 author: 'Cunha, Angel'
 title: Design Thinking na Prática em Pequenas e Médias Empresas
-categories: DT Design Thinking
+categories: [Design Thinking, PME]
 excerpt_separator: <!--more-->
 image: dt.jpg
 ---
