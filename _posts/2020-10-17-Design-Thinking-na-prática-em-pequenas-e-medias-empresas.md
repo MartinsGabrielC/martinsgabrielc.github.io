@@ -6,11 +6,11 @@ categories: Design Thinking em Pequenas e Médias Empresas PMEs
 excerpt_separator: <!--more-->
 image: Design-Thinking-na-prática-em-pequenas-e-medias-empresas.jpg
 ---
-**Existe uma abordagem, que pode ser utilizada nas micros, pequenas e médias empresas que as ajudam a inovar.
+####**Existe uma abordagem, que pode ser utilizada nas micros, pequenas e médias empresas que as ajudam a inovar.
 Essa abordagem é o Design Thinking. Quer saber como implementar essa forma inovadora de pensamento no seu negócio? Vem que te conto tudo o que você precisa saber :)**<!--more-->
 
 
-#### O que é Design Thinking
+## O que é Design Thinking
 
 É uma abordagem que busca solucionar **problemas complexos**, colocando pessoas no centro do pensamento e de qualquer desenvolvimento. Ou seja, é uma forma de pensar (mindset) que ajuda empresários e colaboradores a chegarem em respostas de forma colaborativa e com base em dados reais.
 
@@ -47,7 +47,7 @@ Lembrando que os momentos da abordagem de Design Thinking listados abaixos devem
 Antes de analisarmos cada etapa vamos ver alguns exemplos de empresas que, sem saber ou não, aplicaram os princípios do Design Thinking e obtiveram resultados:
 
 
-### Design Thinking na prática em PMEs
+## Design Thinking na prática em PMEs
 
 A empresa [Kit LIVRE](http://www.kitlivre.com/)® mostra na prática como ser relevante e ter propósito para seus colaboradores e seus clientes. 
 
@@ -86,7 +86,7 @@ Ela superou desavenças entre sócios, turbulências e ciclos econômicos e se m
 Agora que já vimos exemplos de aplicação dos pilares do design thinking vamos nos aprofundar em cada etapa:
 
 
-### Etapa de empatia
+## Etapa de empatia
 
 **Imagem 6**: Etapa de empatia
 ![Etapa de empatia]({{site.baseurl}}//images/blog/posts/Imagem 5_ Etapa de empatia.png)
