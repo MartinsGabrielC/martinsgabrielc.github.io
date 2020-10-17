@@ -50,6 +50,15 @@
         a {
             color: #ff8b23 !important;
         }
+        img{
+            display: block;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        img + strong{
+            text-align: center;
+        }
     }
 }
 

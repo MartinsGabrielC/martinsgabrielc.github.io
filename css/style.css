@@ -3357,6 +3357,13 @@ h6 {
     margin: 0 0 15px 30px; }
   .blog_area .content a {
     color: #ff8b23 !important; }
+  .blog_area .content img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; }
+  .blog_area .content img + strong {
+    text-align: center; }
 
 .single-blog {
   overflow: hidden;
