@@ -79,7 +79,7 @@ A [Casa Goudinho](https://www.merceariagodinho.com.br/) é outro exemplo de util
 Ela superou desavenças entre sócios, turbulências e ciclos econômicos e se manteve relevante para seu público. Testou e implementou novas opções de produtos para atrair mais consumidores.
 
 **Imagem 5**: Exemplo de PME Casa Goudinho
-![]({{site.baseurl}}/images/blog/posts/5.png)
+![]({{site.baseurl}}/images/blog/posts/6.JPG)
 **Fonte**: Instagram Joaokato
 
 Agora que já vimos exemplos de aplicação dos pilares do design thinking vamos nos aprofundar em cada etapa:
@@ -88,7 +88,7 @@ Agora que já vimos exemplos de aplicação dos pilares do design thinking vamos
 ## Etapa de empatia
 
 **Imagem 6**: Etapa de empatia
-![]({{site.baseurl}}/images/blog/posts/6.JPG)
+![]({{site.baseurl}}/images/blog/posts/5.png)
 **Fonte**: IDEO
 
 _“Não existe um script para empatia. Não há um jeito certo ou errado. É simplesmente ouvir, dar espaço, suspender julgamentos, conectar emocionalmente e comunicar a incrivelmente curativa mensagem de “você não está sozinho(a)”._
