@@ -204,10 +204,6 @@ Fonte:[Design interaction](https://www.interaction-design.org/literature/article
 E para concluirmos, lembre-se que as cinco etapas detalhadas neste artigo - empatia, definição, ideação, prototipação e teste - não precisam ou devem ser etapas sequenciais, elas são “modelos” que você pode usar durante cada fase do seu projeto o objetivo delas é facilitar o máximo possível do aprendizado e valor do projeto.
 
 
-E por último, mas SUPER importante: acredite no processo e pratique essa forma de pensamento em todos os momentos que achar necessário. E, caso queira colocar em prática no seu negócio, nos chame!
+E por último, mas SUPER importante: Temos experiência com consultoria de inovação em pequenas e médias empresas nos mais diversos segmentos. Mande a sua mensagem para nós pelo e-mail contato@inovandonapratica.com.br, ou pelo nosso whatsapp 16 99637 2820. 
 
-:)
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Vamos conversar? Vem com a gente ;)
