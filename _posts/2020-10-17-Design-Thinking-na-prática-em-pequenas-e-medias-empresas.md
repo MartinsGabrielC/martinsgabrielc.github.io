@@ -17,12 +17,13 @@ Essa abordagem é o Design Thinking. Quer saber como implementar essa forma inov
 O Design Thinking segue um fluxo que consiste em mapear todos os fatores envolvidos em um problema complexo, com objetivo de adquirir uma visão sistêmica dele e uma solução completa. Todo o fluxo é gerado a partir do levantamento das reais necessidades dos envolvidos com o problema e pode ser utilizado linearmente, ou não. 
 
 **Imagem 1**: Etapas do Design Thinking
-![]({{site.baseurl}}/images/blog/posts/Imagem 1_ Etapas do Design Thinking.png)
+![Etapas do Design Thinking]({{site.baseurl}}/{{site.baseurl}}/images/blog/posts/Imagem 1_ Etapas do Design Thinking.png)
 **Fonte**: IDEO
 
 Ele é considerado um processo criativo em que, por meio de métodos, podemos identificar problemas e gerar **soluções inovadoras** com base em três grandes pilares: empatia, colaboração e experimentação.
 
 **Imagem 2**: Pilares do Design Thinking
+![Pilares do Design Thinking]({{site.baseurl}}//images/blog/posts/Imagem 2 Pilares do Design Thinking.png)
 **Fonte**: Tera 
 
 O Design sempre existiu, mas com a aceleração do mundo Volátil, Instável, Complexo e Ambíguo (**VUCA**) em que vivemos, se tornou necessário inovar na própria cultura do desenvolvimento de produtos e serviços. Para que as empresas consigam se manter relevantes nesse ambiente competitivo se faz necessário utilizar desta forma de pensar e criar.
@@ -59,6 +60,7 @@ Sua solução foi o Kit Livre® que pode ser fixada a qualquer modelo de cadeira
 A proposta do Kit Livre® é permitir que o cadeirante consiga realizar todos movimentos que desejar de modo seguro, confortável e divertido. A motivação do trabalho da LIVRE® é: _"Tornar os usuários de cadeiras de rodas protagonistas de suas vidas."_
 
 **Imagem 3**: Exemplo de PME Kit Livre
+![Exemplo de PME Kit Livre]({{site.baseurl}}//images/blog/posts/Imagem 3_ Exemplo de PME Kit Livre.png)
 **Fonte**: Kitlivre
 
 Já a  [Cliever](https://www.cliever.com/) enxergou o crescimento do mercado de impressoras 3d em 2012, porém nesta época o alto custo das impressoras 3D impossibilitava que as pequenas e médias empresas utilizassem a impressora em seu dia a dia. 
@@ -70,20 +72,24 @@ Uma das preocupações do fundador, Rodrigo Krug, era não apenas fabricar o pro
 Hoje a Cliever é pioneira nacional em impressoras 3D!! Esse exemplo nos mostra a importância da definição do seu nicho, a empatia que devemos ter com eles e como nos diferenciar no mercado através da inovação.
 
 **Imagem 4**: Exemplo de PME Cliever
+![Exemplo de PME Cliever]({{site.baseurl}}//images/blog/posts/Imagem 4_ Exemplo de PME Cliever.png)
 **Fonte**:Instagram Cliever3d
 
 A [Casa Goudinho](https://www.merceariagodinho.com.br/) é outro exemplo de utilização do pilar do design thinking experimentação para  manter seu comércio em pé por mais de 100 anos, e ainda no centro de São Paulo, onde as novidades chegam primeiro.
 
 Ela superou desavenças entre sócios, turbulências e ciclos econômicos e se manteve relevante para seu público. Testou e implementou novas opções de produtos para atrair mais consumidores.
-Imagem 5: Exemplo de PME Casa Goudinho
-Fonte: Instagram Joaokato
+
+**Imagem 5**: Exemplo de PME Casa Goudinho
+![Exemplo de PME Casa Goudinho]({{site.baseurl}}//images/blog/posts/Imagem 5_ Exemplo de PME Casa Goudinho.png)
+**Fonte**: Instagram Joaokato
 
 Agora que já vimos exemplos de aplicação dos pilares do design thinking vamos nos aprofundar em cada etapa:
 
 
 ### Etapa de empatia
 
-**Imagem 5**: Etapa de empatia
+**Imagem 6**: Etapa de empatia
+![Etapa de empatia]({{site.baseurl}}//images/blog/posts/Imagem 5_ Etapa de empatia.png)
 **Fonte**: IDEO
 
 _“Não existe um script para empatia. Não há um jeito certo ou errado. É simplesmente ouvir, dar espaço, suspender julgamentos, conectar emocionalmente e comunicar a incrivelmente curativa mensagem de “você não está sozinho(a)”._
@@ -106,7 +112,8 @@ Ferramentas utilizadas neste momento
 
 ### Etapa de definição de desafio
 
-**Imagem 6**: Etapa de definição
+**Imagem 7**: Etapa de definição
+![Etapa de definição]({{site.baseurl}}//images/blog/posts/Imagem 6_ Etapa de definição.png)
 **Fonte**: IDEO
 
 A etapa de definição é onde sintetizamos as informações coletadas na etapa de empatia e fazemos análises para obter insights inspiradores para o problema complexo.
@@ -118,7 +125,6 @@ Para isso existem algumas boas práticas como: deixar visual todas as informaç�
 As ferramentas que costumam ser utilizadas no momento de convergir, agrupar as informações são 
 
 - **Mapa de empatia**:  utilizado para agrupar informações das pesquisas qualitativas, em quatro grupos: o que os entrevistados pensam e sentem; o que eles vêem; o que eles falam e fazem; e o que eles ouvem. Obtenha o pdf [aqui](https://app.mural.co/template/e039541c-944d-4d99-8cdb-74979fd2f7c8/ce11b718-75c3-4501-b058-0c8604d0124b).
-- **Matriz CSD**:
 - **Matriz impacto x esforço**: em uma matriz de quatro quadrantes de maior e menor esforço e maior e menor impacto, é possível ver com clareza qual é o cluster com maior valor e menor esforço para produção. Obtenha o pdf aqui.
 - **Ponto de vista**: análise pela qual colocamos a pessoa no centro da análise identificando a dor, como ela age e se alguma solução existente resolve o problema dela. Resumir em uma única frase com os 3 pontos abaixo. Obtenha o pdf [aqui](https://app.mural.co/template/e039541c-944d-4d99-8cdb-74979fd2f7c8/ce11b718-75c3-4501-b058-0c8604d0124b). 
 	i) usuário: quem é a persona, suas características, estilo de vida e percepções; 
@@ -129,7 +135,8 @@ As ferramentas que costumam ser utilizadas no momento de convergir, agrupar as i
 
 ### Etapa de ideação de solução
 
-**Imagem 7**: Etapa de ideação
+**Imagem 8**: Etapa de ideação
+![Etapa de ideação]({{site.baseurl}}//images/blog/posts/Imagem 7_ Etapa de ideação.png)
 **Fonte**: IDEO
 
 Ideação é o momento do processo de design em que você se concentra na geração de ideias. Mentalmente, isso representa um processo de “ir além” em relação a conceitos e respostas.
@@ -153,7 +160,8 @@ Após ter uma quantidade satisfatória de ideias chegou a hora de convergir nova
 
 ### Etapa de prototipagem da solução
 
-**Imagem 8**: Etapa de prototipação
+**Imagem 9**: Etapa de prototipação
+![Etapa de prototipação]({{site.baseurl}}//images/blog/posts/Imagem 8_ Etapa de prototipação.png)
 **Fonte**: IDEO
 
 _"Se uma imagem vale mais que mil palavras, então um protótipo vale mais que mil reuniões."_
@@ -170,7 +178,8 @@ Para desenvolver o protótipo é preciso um toque de criatividade de como tangib
 
 ### Etapa de teste do protótipo
 
-**Imagem 9**: Etapa de teste
+**Imagem 10**: Etapa de teste
+![Etapa de teste]({{site.baseurl}}//images/blog/posts/Imagem 9_ Etapa de teste.png)
 **Fonte**:IDEO.
 
 O objetivo desta última etapa é descobrir se sua solução resolve os problemas dos seus usuários no dia a dia. Vamos testar a experiência da persona por meio do protótipo. É hora de falar com ela novamente e descobrir quais dores sua ideia soluciona, como ela se sente ao utilizá-la, quais melhorias podem ser realizadas, qual o impacto da solução em sua vida.
@@ -199,8 +208,9 @@ O Design Thinking prevê que realmente estejamos fazendo a diferença no mundo p
 
 Essa é uma das abordagens que depois que você utiliza nunca mais irá conseguir resolver problemas complexos de outra forma. 
 
-Imagem 10: Fluxo das etapas do Design Thinking
-Fonte:[Design interaction](https://www.interaction-design.org/literature/article/stage-5-in-the-design-thinking-process-test) 
+**Imagem 11**: Fluxo das etapas do Design Thinking
+![Fluxo das etapas do Design Thinking]({{site.baseurl}}//images/blog/posts/Imagem 10_ Fluxo das etapas do Design Thinking.png)
+**Fonte**:[Design interaction](https://www.interaction-design.org/literature/article/stage-5-in-the-design-thinking-process-test) 
 
 E para concluirmos, lembre-se que as cinco etapas detalhadas neste artigo - empatia, definição, ideação, prototipação e teste - não precisam ou devem ser etapas sequenciais, elas são “modelos” que você pode usar durante cada fase do seu projeto o objetivo delas é facilitar o máximo possível do aprendizado e valor do projeto.
 
