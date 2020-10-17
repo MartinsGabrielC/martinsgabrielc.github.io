@@ -6,7 +6,8 @@ categories: Design Thinking em Pequenas e Médias Empresas PMEs
 excerpt_separator: <!--more-->
 image: Design-Thinking-na-prática-em-pequenas-e-medias-empresas.jpg
 ---
-## **Existe uma abordagem, que pode ser utilizada nas micros, pequenas e médias empresas que as ajudam a inovar. Essa abordagem é o Design Thinking. Quer saber como implementar essa forma inovadora de pensamento no seu negócio? Vem que te conto tudo o que você precisa saber :)**<!--more-->
+## **Existe uma abordagem, que pode ser utilizada nas micros, pequenas e médias empresas que as ajudam a inovar.
+Essa abordagem é o Design Thinking. Quer saber como implementar essa forma inovadora de pensamento no seu negócio? Vem que te conto tudo o que você precisa saber :)**
 
 
 ## O que é Design Thinking
