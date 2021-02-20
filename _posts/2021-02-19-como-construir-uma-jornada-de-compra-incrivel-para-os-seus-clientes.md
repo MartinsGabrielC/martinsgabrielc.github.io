@@ -43,6 +43,9 @@ Quando falo de **retorno**, estou me referindo a resultados como:
 
 Mas antes de entrar no COMO APLICAR O UX (User Experience), vamos fazer uma pausa para a história da experiência do usuário.
 
+![senta que la vem história]({{site.baseurl}}/images/blog/posts/senta.gif)
+<p style="text-align: center;"><strong>Fonte</strong>: Castelo Ra-ti-bum</p>
+
 Você sabia que o criador do termo User Experience foi Profº Donald Norman na década de 1990? 
 O Profº diz que UX vai muito além de aspectos de design - visual, beleza, função, usabilidade e etc. Ele envolve aspectos afetivos como: emoções e sentimentos, e subjetivos como: percepção e pensamentos dos usuários.
 O termo é carregado de dinamismo, porque tudo está em constante mudança, como: a economia, as empresas, os produtos/serviços e as formas de comunicação. Isso tudo gera constantes alterações na experiência dos usuários. Dito isso, voltamos a prática:
