@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: 'Cunha, Angel'
 categories:
@@ -104,5 +104,3 @@ Conte com o apoio da Inovando Na Prática em cada etapa do processo.
 Nós construímos essa jornada incrível com você por meio da nossa consultoria de inovação e mentorias pontuais. 
 
 Vamos agendar uma conversa? :)
-
-
