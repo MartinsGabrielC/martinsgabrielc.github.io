@@ -9,8 +9,6 @@ excerpt_separator: <!--more-->
 image: uxcapa.jpg
 title: Como construir uma jornada de compra incrível para os seus clientes
 ---
-### Construíndo uma experiência do cliente na prática para Pequenas e Médias Empresas
-
 Você sabe como seu potencial cliente descobre sua empresa?  
 Qual sentimento que o seu cliente sente no primeiro contato com os seus produtos? Conhece quais são suas expectativas e se elas estão sendo atendidas? 
 Sabe como encantar o cliente em toda sua jornada de compra? 
