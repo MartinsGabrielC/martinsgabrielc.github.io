@@ -6,7 +6,7 @@ categories:
   - UX
   - PME
 excerpt_separator: <!--more-->
-image: ux.jpeg
+image: uxcapa.jpg
 title: Como construir uma jornada de compra incrível para os seus clientes
 ---
 ## Construíndo uma experiência do cliente na prática para Pequenas e Médias Empresas
