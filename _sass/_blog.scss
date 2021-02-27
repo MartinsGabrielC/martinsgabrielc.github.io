@@ -1039,6 +1039,10 @@
 
 .blog-pagination {
     margin-top: 80px;
+    ul.pagination {
+        display:flex;  
+        list-style:none;
+    }
 }
 
 .blog-pagination .page-link {

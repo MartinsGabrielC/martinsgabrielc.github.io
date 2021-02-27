@@ -1321,7 +1321,7 @@ h3 {
         padding: 0;
         margin-top: 10px; } }
     .testimonial_area .single_testmonial .info p {
-      font-size: 18px;
+      font-size: 22px;
       color: #040E27;
       line-height: 32px;
       margin-bottom: 18px; }
@@ -2094,7 +2094,7 @@ p #amount {
         padding: 0;
         margin-top: 10px; } }
     .testimonial_area .single_testmonial .info p {
-      font-size: 18px;
+      font-size: 22px;
       color: #040E27;
       line-height: 32px;
       margin-bottom: 18px; }
@@ -3874,6 +3874,9 @@ h6 {
 
 .blog-pagination {
   margin-top: 80px; }
+  .blog-pagination ul.pagination {
+    display: flex;
+    list-style: none; }
 
 .blog-pagination .page-link {
   font-size: 14px;

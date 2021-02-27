@@ -51,7 +51,7 @@ layout: default
                                     <a href="{{ paginator.previous_page_path }}" class="page-link">{{ paginator.page | minus: 1 }}</a>
                                 </li>
 						  	{% else %}
-						    	<span class="page-link disabled" ><i class="ti-angle-left"></i></span>
+						    	<li><span class="page-link disabled" ><i class="ti-angle-left"></i></span></li>
 						  	{% endif %}
                             <li class="page-item active">
                                 <a href="#" class="page-link">{{ paginator.page}}</a>
@@ -64,7 +64,7 @@ layout: default
 						     		<i class="ti-angle-right"></i>
 						    	</a>
 						    {% else %}
-						    	<span class="page-link disabled"><i class="ti-angle-right"></i></span>
+						    	<li><span class="page-link disabled"><i class="ti-angle-right"></i></span></li>
 						  	{% endif %}
                         </ul>
                     </nav>
