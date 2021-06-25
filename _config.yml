@@ -32,8 +32,8 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  telephone-display: +55 (16) 99637-2820
-  telephone-dial: +55-016-996372820 #No spaces or dashes with area indicator
+  telephone-display: +55 (16) 99975-2820 016 99975-2820
+  telephone-dial: +55-016-999752820 #No spaces or dashes with area indicator
 
 blog-default:
   image: default.jpg
