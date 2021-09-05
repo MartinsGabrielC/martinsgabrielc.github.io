@@ -27,18 +27,18 @@ __   __            _____ _                 _     _       _ _     _            _
     <!-- header-start -->
     <header>
         <div class="header-area ">
-            <div id="sticky-header" class="main-header-area">
+            <div id="" class="main-header-area">
                 <div class="container-fluid">
                     <div class="header_bottom_border">
-                        <div class="row align-items-center">
-                            <div class="col-xl-3 col-lg-2">
+                        <div class="row align-items-center d-flex flex-column">
+                            <div class="col-xl-2 col-lg-2">
                                 <div class="logo-img">
                                     <a href="{{ site.baseurl }}/">
                                         <img src="{{ site.avatar }}" alt="">
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-xl-5 col-lg-5">
+                            <div class="col-xl-6 col-lg-6">
                                 <div class="main-menu  d-none d-lg-block">
                                     <nav>
                                         <ul id="navigation">
@@ -77,27 +77,22 @@ __   __            _____ _                 _     _       _ _     _            _
         <div class="footer_top">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-3 col-md-6 col-lg-3">
+                    <div class="col-xl-4 col-md-4 col-lg-4">
                         <div class="footer_widget wow fadeInUp align-items-center" data-wow-duration="1s" data-wow-delay=".3s">
                             <div class="footer_logo">
                                 <a href="#">
                                     <img src="{{ site.footer }}" alt="">
                                 </a>
                             </div>
-                            <div class="socail_links">
-                                {% include svg-icons.html %}
-                            </div>
+                            
 
                         </div>
                     </div>
-                    <div class="col-xl-6 col-md-6 col-lg-6">
+                    <div class="col-xl-8 col-md-8 col-lg-8">
                         <div class="footer_widget footer_links wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".5s">
-                            <!-- <h3 class="footer_title">
-                                Useful Links
-                            </h3> -->
-                            <ul>
-                                {% include navigation.html %}
-                            </ul>
+                            <div class="socail_links">
+                                {% include svg-icons.html %}
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -112,7 +107,7 @@ __   __            _____ _                 _     _       _ _     _            _
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             Copyright &copy; 2020 All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> 
                             by <a href="https://colorlib.com" target="_blank">Colorlib</a> and edited by 
-                            <a href="https://www.linkedin.com/in/martins-gabriel/" target="_blank">Martins, Gabriel</a>
+                            <a href="https://www.linkedin.com/in/martins-gabriel/" target="_blank">Gabriel Martins</a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>

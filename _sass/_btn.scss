@@ -53,8 +53,8 @@
     }
 }
 .round-btn {
-    background: #F16521;
-	color: #fff;
+    background: #E5E5E5;
+	color: #231F20;
 	padding: 11px;
 	font-family: $font2;
 	font-size: 16px;
@@ -69,7 +69,6 @@
     justify-content: center;
     align-content: center;
     flex-direction: column;
-    color: #fff !important;
     text-transform: capitalize;
     @include transition(0s);
     cursor: pointer;
