@@ -52,6 +52,44 @@
         margin-bottom:20px;
     }
 }
+.round-btn {
+    background: #E5E5E5;
+	color: #231F20;
+	padding: 11px;
+	font-family: $font2;
+	font-size: 16px;
+    font-weight: 500;
+    border: 0;
+    border: 1px solid transparent;
+    @include border-radius(50%);
+    // width: 180px;
+    text-align: center;
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-transform: capitalize;
+    @include transition(0s);
+    cursor: pointer;
+    width:150px;
+    height: 150px;
+    // letter-spacing: 2px;
+    &:hover{
+        color: #F16521 !important;
+        border: 1px solid #F16521;
+        background:  transparent  ;
+    }
+    &:focus{
+        outline: none;
+    }
+    @media #{$mobile_device} {
+        width:100px;
+        height: 100px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+}
 .boxed-btn4 {
 	display: inline-block;
 	padding: 11px 29px 13px 29px;

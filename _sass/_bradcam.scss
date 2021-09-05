@@ -20,7 +20,7 @@
         height: 100%;
         z-index: -1;
         content: '';
-        background: #040E27;
+        background: #595951;
         opacity: .7;
     }
     @media #{$mobile_device} {
@@ -40,7 +40,7 @@
         font-size: 18px;
         color: #fff;
         font-weight: 400;
-        text-transform: capitalize;
+        //text-transform: capitalize;
         a{
             color: #fff;
             &:hover{
