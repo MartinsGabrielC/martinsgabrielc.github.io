@@ -30,7 +30,7 @@
             }
         }
         @media #{$mobile_device} {
-            height: auto;
+            height: 500px;
         }
         @media #{$tablet_device} {
             height: 700px;
@@ -55,7 +55,7 @@
                     font-size: 34px;
                     line-height: 1.4;
                 }
-                @media #{$mid_device} {
+                @media #{$medium_device} {
                     font-size: 40px;
                     line-height: 1.4;
                 }
@@ -80,7 +80,7 @@
                     font-size: 27px;
                     line-height: 37px;
                 }
-                @media #{$mid_device} {
+                @media #{$medium_device} {
                     font-size: 34px;
                     line-height: 44px;
                 }
@@ -98,7 +98,7 @@
                 // margin-top: 10px;
                 font-family: $font2;
                 margin-bottom: 24px;
-             @media #{$mid_device} {
+             @media #{$medium_device} {
                 font-size: 16px;
              }
              @media #{$mobile_device} {
@@ -157,7 +157,7 @@
         @media #{$tablet_device}{
             padding: 30px;
         }
-        @media #{$mid_device}{
+        @media #{$medium_device}{
             padding: 30px;
         }
         .single_input input {
@@ -188,7 +188,7 @@
             @media #{$tablet_device}{
                 font-size: 24px;
             }
-            @media #{$mid_device}{
+            @media #{$medium_device}{
                 font-size: 24px;
             }
         }
@@ -202,7 +202,7 @@
                 margin-bottom: 15px;
                 margin-top: 10px;
             }
-            @media #{$mid_device}{
+            @media #{$medium_device}{
                 font-size: 14px;
             }
         }
