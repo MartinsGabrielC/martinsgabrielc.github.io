@@ -6,7 +6,7 @@ categories:
   - UX
   - PME
 excerpt_separator: <!--more-->
-image: uxcapa.jpg
+image: capaux.png
 title: Como construir uma jornada de compra incrível para os seus clientes
 ---
 Você sabe como seu potencial cliente descobre sua empresa?  
