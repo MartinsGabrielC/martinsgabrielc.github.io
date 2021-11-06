@@ -127,7 +127,7 @@ No nosso exemplo de OKR da Inovando, ficaria assim:
 
 ![OKR Inovando]({{site.baseurl}}/images/blog/posts/imagem1.jpg)
 
-Objetivo 1 -** o que queremos**: Ter presença digital
+Objetivo 1 - **o que queremos**: Ter presença digital
 Resultados Chave (KR) - **como sabemos que alcançamos o objetivo**
 KR 1 - Pesquisar 10 potenciais clientes;
 KR 2 - Definir um canal de comunicação;
