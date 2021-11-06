@@ -166,6 +166,7 @@ Você também pode contar com o apoio de uma consultoria, normalmente alguém de
 Reforçando o que precisamos fazer para ter uma boa estratégia na empresa:
 
 1- **Instalar uma cultura de resposta rápida e flexível **
+
 2- **Desenvolver uma gestão que harmonize o ambiente interno e externo.**
 
 A cultura de uma empresa é sua sombra, ou seja, os hábitos de todos da organização refletem na sua cultura. Por isso, é importante olhar para a implementação de novas abordagens, e não somente copiar modelos de outras empresas, como por exemplo o próprio OKR. 
