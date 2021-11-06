@@ -127,21 +127,20 @@ No nosso exemplo de OKR da Inovando, ficaria assim:
 
 ![OKR Inovando]({{site.baseurl}}/images/blog/posts/imagem1.jpg)
 
-Objetivo 1 - **o que queremos**: Ter presença digital
-Resultados Chave (KR) - **como sabemos que alcançamos o objetivo**
-KR 1 - Pesquisar 10 potenciais clientes;
-KR 2 - Definir um canal de comunicação;
-KR 3 - Cumprir 100% da rotina de postagens.
+Objetivo 1: Ter presença digital
+Resultados Chave 1 - Pesquisar 10 potenciais clientes;
+Resultados Chave 2 - Definir um canal de comunicação;
+Resultados Chave 3 - Cumprir 100% da rotina de postagens.
 
 Objetivo 2: Lançar um curso rápido
-KR 1 - Criar o curso;
-KR 2 - Ter no mínimo 70% de aderência no lançamento;
-KR 3 - Manter 100% da aderência do lançamento por meio de divulgação.
+Resultados Chave 1 - Criar o curso;
+Resultados Chave 2 - Ter no mínimo 70% de aderência no lançamento;
+Resultados Chave 3 - Manter 100% da aderência do lançamento por meio de divulgação.
 
 Objetivo 3: Ter parcerias estratégicas
-KR 1 - Criar programa de mentoria gratuita;
-KR 2 - Firmar 3 parcerias estratégicas;
-KR 3 - Realizar e divulgar 4 mentorias/mês.
+Resultados Chave 1 - Criar programa de mentoria gratuita;
+Resultados Chave 2 - Firmar 3 parcerias estratégicas;
+Resultados Chave 3 - Realizar e divulgar 4 mentorias/mês.
 
 Como você pôde observar,
 Todos os Objetivos são **significativos**, **concretos**, **orientados por ações** e **inspiradores**. 
