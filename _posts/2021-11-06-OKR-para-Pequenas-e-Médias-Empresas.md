@@ -116,9 +116,9 @@ No final dos anos 90, Jon Doerr, sócio da [KPCB](https://www.kleinerperkins.com
 
 
 ## Criando OKRs
-Em termos práticos as **pessoas mais importantes da empresa** (liderança, gerência, colaboradores, quem vocês acharem que precisa participar dessa definição) **definem de 3 a 5 Objetivos **para a empresa, **por um período determinado** (podendo ser num futuro de 3, 6 ou 12 meses), o céu é o limite para a criatividade dos objetivos, como vocês verão, meu jeito de escrever objetivos é mais simplista e direto ao ponto, mas [neste site](https://www.exemplosdeokr.com.br/) você consegue ver vários exemplos de objetivos mais inspiradores.
+Em termos práticos as pessoas mais importantes da empresa (liderança, gerência, colaboradores, quem vocês acharem que precisa participar dessa definição) definem de 3 a 5 Objetivos para a empresa, por um período determinado (podendo ser num futuro de 3, 6 ou 12 meses), o céu é o limite para a criatividade dos objetivos, como vocês verão, meu jeito de escrever objetivos é mais simplista e direto ao ponto, mas [neste site](https://www.exemplosdeokr.com.br/) você consegue ver vários exemplos de objetivos mais inspiradores.
 
-A partir desses objetivos são vocês devem** criar de 3 a 5 Resultados-Chave para cada objetivo**, e pode-se ainda criar algumas ações/tarefas macros, mas esse último é opcional, normalmente as áreas operacionais e os colaboradores que irão ter maior atuação nos resultados-chaves criam essas tarefas macro.
+A partir desses objetivos são vocês devem criar de 3 a 5 Resultados-Chave para cada objetivo, e pode-se ainda criar algumas ações/tarefas macros, mas esse último é opcional, normalmente as áreas operacionais e os colaboradores que irão ter maior atuação nos resultados-chaves criam essas tarefas macro.
 
 Uma técnica para escrever objetivos é responder a pergunta: **O que eu quero?**
 E para os resultados-chave é: **Como saberei que alcancei este objetivo?**
