@@ -8,6 +8,7 @@ categories:
   - PME
 excerpt_separator: <!--more-->
 image: capaokr.png
+title: OKR para Pequenas e Médias Empresas
 ---
 - Porque você deve ler este artigo
 - De uma vez por todas, o que é estratégia?
