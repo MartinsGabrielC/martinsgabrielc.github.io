@@ -128,18 +128,27 @@ No nosso exemplo de OKR da Inovando, ficaria assim:
 ![OKR Inovando]({{site.baseurl}}/images/blog/posts/imagem1.jpg)
 
 Objetivo 1: Ter presença digital
+
 Resultados Chave 1 - Pesquisar 10 potenciais clientes;
+
 Resultados Chave 2 - Definir um canal de comunicação;
+
 Resultados Chave 3 - Cumprir 100% da rotina de postagens.
 
 Objetivo 2: Lançar um curso rápido
+
 Resultados Chave 1 - Criar o curso;
+
 Resultados Chave 2 - Ter no mínimo 70% de aderência no lançamento;
+
 Resultados Chave 3 - Manter 100% da aderência do lançamento por meio de divulgação.
 
 Objetivo 3: Ter parcerias estratégicas
+
 Resultados Chave 1 - Criar programa de mentoria gratuita;
+
 Resultados Chave 2 - Firmar 3 parcerias estratégicas;
+
 Resultados Chave 3 - Realizar e divulgar 4 mentorias/mês.
 
 Como você pôde observar,
