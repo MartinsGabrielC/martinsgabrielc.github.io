@@ -21,7 +21,7 @@ footer: /images/inovando_napratica_md_webp.webp
 footer-links:
   dribbble:
   email: contato@inovandonapratica.com.br
-  facebook: Inovando-Na-Pr%C3%A1tica-113815193710747
+  facebook: #Inovando-Na-Pr%C3%A1tica-113815193710747
   flickr:
   github:
   instagram: inovandonapraticaoficial
@@ -33,7 +33,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   telephone-display: +55 (16) 99975-2820
-  telephone-dial: +55-016-999752820 #No spaces or dashes with area indicator
+  telephone-dial: 55016999752820 #No spaces or dashes with area indicator
 
 blog-default:
   image: default.jpg

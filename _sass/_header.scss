@@ -124,6 +124,25 @@
                     }
                 }
             }
+            .instagram_desc{
+                margin-right: 0px;
+                @media #{$large_device} {
+                    margin-right: 12px;
+                }
+                a{
+                    font-size: 14px;
+                    font-weight: 400;
+                    color: #595951;
+                    @media #{$large_device}{
+                        font-size: 13px;
+                    }
+                    i{
+                        color:#231F20;
+                        font-size: 14px;
+                        margin-right: 7px;
+                    }
+                }
+            }
             .boxed-btn4{
                 @media #{$large_device} {
                     padding: 11px 9px 13px 9px;

@@ -762,6 +762,22 @@ h3 {
             color: #231F20;
             font-size: 14px;
             margin-right: 7px; }
+      .header-area .main-header-area .Appointment .instagram_desc {
+        margin-right: 0px; }
+        @media (min-width: 1200px) and (max-width: 1500px) {
+          .header-area .main-header-area .Appointment .instagram_desc {
+            margin-right: 12px; } }
+        .header-area .main-header-area .Appointment .instagram_desc a {
+          font-size: 14px;
+          font-weight: 400;
+          color: #595951; }
+          @media (min-width: 1200px) and (max-width: 1500px) {
+            .header-area .main-header-area .Appointment .instagram_desc a {
+              font-size: 13px; } }
+          .header-area .main-header-area .Appointment .instagram_desc a i {
+            color: #231F20;
+            font-size: 14px;
+            margin-right: 7px; }
       @media (min-width: 1200px) and (max-width: 1500px) {
         .header-area .main-header-area .Appointment .boxed-btn4 {
           padding: 11px 9px 13px 9px;
