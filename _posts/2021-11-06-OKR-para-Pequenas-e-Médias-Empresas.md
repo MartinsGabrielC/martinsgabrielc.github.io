@@ -24,7 +24,7 @@ title: OKR para Pequenas e Médias Empresas
 
 ## Porque você deve ler este artigo:
 Mais do que nunca, a estratégia se faz necessária! 
-Estamos passando por uma pandemia, a gente compra coisa do outro lado do mundo pelo celular, tudo é entregue em casa, se sua empresa não está no google você está fora da jogada ou fadado à falência, sabe por quê?
+Estamos passando por uma pandemia, a gente compra coisa do outro lado do mundo pelo celular, tudo é entregue em casa, se sua empresa não está no google você está fora da jogada ou fadado à falência, sabe por quê? <!--more-->
 
 **Porque hoje a competitividade é global, a transformação digital chegou para todos os tipos de serviço, a nova jornada de compras vai desde conhecer a empresa até receber EM CASA a mercadoria, seja ela comida, roupa, brinquedos, móveis, carro, ou qualquer coisa que você queira. Estou falando de uma mudança relevante em TODAS as relações de trabalho.**
 
